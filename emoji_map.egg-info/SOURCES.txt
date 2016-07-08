@@ -1,0 +1,8 @@
+setup.py
+emoji_map/__init__.py
+emoji_map/emoji_map.py
+emoji_map.egg-info/PKG-INFO
+emoji_map.egg-info/SOURCES.txt
+emoji_map.egg-info/dependency_links.txt
+emoji_map.egg-info/not-zip-safe
+emoji_map.egg-info/top_level.txt
