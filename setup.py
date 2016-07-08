@@ -8,4 +8,5 @@ setup(name='emoji_map',
       author_email='rchurch4@bu.edu',
       license='MIT',
       packages=['emoji_map'],
+      include_package_data=True,
       zip_safe=False)
