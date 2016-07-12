@@ -1,821 +1,1791 @@
-U0001F601,grinning face with smiling eyes
-U0001F602,face with tears of joy
-U0001F603,smiling face with open mouth
-U0001F604,smiling face with open mouth and smiling eyes
-U0001F605,smiling face with open mouth and cold sweat
-U0001F606,smiling face with open mouth and tightly-closed eyes
-U0001F609,winking face
-U0001F60A,smiling face with smiling eyes
-U0001F60B,face savouring delicious food
-U0001F60C,relieved face
-U0001F60D,smiling face with heart-shaped eyes
-U0001F60F,smirking face
-U0001F612,unamused face
-U0001F613,face with cold sweat
-U0001F614,pensive face
+U0001F600,face grin
+U0001F601,eye face grin smile
+U0001F602,face joy laugh tear
+U0001F923,face floor laugh lol rofl rolling
+U0001F603,face mouth open smile
+U0001F604,eye face mouth open smile
+U0001F605,cold face open smile sweat
+U0001F606,face laugh mouth open satisfied smile
+U0001F609,face wink
+U0001F60A,blush eye face smile
+U0001F60B,delicious face savouring smile um yum
+U0001F60E,bright cool eye eyewear face glasses smile sun sunglasses weather
+U0001F60D,eye face heart love smile
+U0001F618,face heart kiss
+U0001F617,face kiss
+U0001F619,eye face kiss smile
+U0001F61A,closed eye face kiss
+U0000263A,face outlined relaxed smile
+U0001F642,face smile
+U0001F917,face hug hugging
+U0001F914,face thinking
+U0001F610,deadpan face neutral
+U0001F611,expressionless face inexpressive unexpressive
+U0001F636,face mouth quiet silent
+U0001F644,eyes face rolling
+U0001F60F,face smirk
+U0001F623,face persevere
+U0001F625,disappointed face relieved whew
+U0001F62E,face mouth open sympathy
+U0001F910,face mouth zipper
+U0001F62F,face hushed stunned surprised
+U0001F62A,face sleep
+U0001F62B,face tired
+U0001F634,face sleep zzz
+U0001F60C,face relieved
+U0001F913,face geek nerd
+U0001F61B,face tongue
+U0001F61C,eye face joke tongue wink
+U0001F61D,eye face horrible taste tongue
+U0001F924,drooling face
+U0001F612,face unamused unhappy
+U0001F613,cold face sweat
+U0001F614,dejected face pensive
+U0001F615,confused face
+U0001F643,face upside-down
+U0001F911,face money mouth
+U0001F632,astonished face shocked totally
+U00002639,face frown
+U0001F641,face frown
 U0001F616,confounded face
-U0001F618,face throwing a kiss
-U0001F61A,kissing face with closed eyes
-U0001F61C,face with stuck-out tongue and winking eye
-U0001F61D,face with stuck-out tongue and tightly-closed eyes
 U0001F61E,disappointed face
-U0001F620,angry face
-U0001F621,pouting face
-U0001F622,crying face
-U0001F623,persevering face
-U0001F624,face with look of triumph
-U0001F625,disappointed but relieved face
-U0001F628,fearful face
-U0001F629,weary face
-U0001F62A,sleepy face
-U0001F62B,tired face
-U0001F62D,loudly crying face
-U0001F630,face with open mouth and cold sweat
-U0001F631,face screaming in fear
-U0001F632,astonished face
-U0001F633,flushed face
+U0001F61F,face worried
+U0001F624,face triumph won
+U0001F622,cry face sad tear
+U0001F62D,cry face sad sob tear
+U0001F626,face frown mouth open
+U0001F627,anguished face
+U0001F628,face fear fearful scared
+U0001F629,face tired weary
+U0001F62C,face grimace
+U0001F630,blue cold face mouth open rushed sweat
+U0001F631,face fear fearful munch scared scream
+U0001F633,dazed face flushed
 U0001F635,dizzy face
-U0001F637,face with medical mask
-U0001F638,grinning cat face with smiling eyes
-U0001F639,cat face with tears of joy
-U0001F63A,smiling cat face with open mouth
-U0001F63B,smiling cat face with heart-shaped eyes
-U0001F63C,cat face with wry smile
-U0001F63D,kissing cat face with closed eyes
-U0001F63E,pouting cat face
-U0001F63F,crying cat face
-U0001F640,weary cat face
-U0001F645,face with no good gesture
-U0001F646,face with ok gesture
-U0001F647,person bowing deeply
-U0001F648,see-no-evil monkey
-U0001F649,hear-no-evil monkey
-U0001F64A,speak-no-evil monkey
-U0001F64B,happy person raising one hand
-U0001F64C,person raising both hands in celebration
-U0001F64D,person frowning
-U0001F64E,person with pouting face
-U0001F64F,person with folded hands
-U00002702,black scissors
-U00002705,white heavy check mark
-U00002708,airplane
-U00002709,envelope
-U0000270A,raised fist
-U0000270B,raised hand
-U0000270C,victory hand
-U0000270F,pencil
-U00002712,black nib
-U00002714,heavy check mark
-U00002716,heavy multiplication x
-U00002728,sparkles
-U00002733,eight spoked asterisk
-U00002734,eight pointed black star
-U00002744,snowflake
-U00002747,sparkle
-U0000274C,cross mark
-U0000274E,negative squared cross mark
-U00002753,black question mark ornament
-U00002754,white question mark ornament
-U00002755,white exclamation mark ornament
-U00002757,heavy exclamation mark symbol
-U00002764,heavy black heart
-U00002795,heavy plus sign
-U00002796,heavy minus sign
-U00002797,heavy division sign
-U000027A1,black rightwards arrow
-U000027B0,curly loop
-U0001F680,rocket
-U0001F683,railway car
-U0001F684,high-speed train
-U0001F685,high-speed train with bullet nose
-U0001F687,metro
-U0001F689,station
-U0001F68C,bus
-U0001F68F,bus stop
-U0001F691,ambulance
-U0001F692,fire engine
-U0001F693,police car
-U0001F695,taxi
-U0001F697,automobile
-U0001F699,recreational vehicle
-U0001F69A,delivery truck
-U0001F6A2,ship
-U0001F6A4,speedboat
-U0001F6A5,horizontal traffic light
-U0001F6A7,construction sign
-U0001F6A8,police cars revolving light
-U0001F6A9,triangular flag on post
-U0001F6AA,door
-U0001F6AB,no entry sign
-U0001F6AC,smoking symbol
-U0001F6AD,no smoking symbol
-U0001F6B2,bicycle
-U0001F6B6,pedestrian
-U0001F6B9,mens symbol
-U0001F6BA,womens symbol
-U0001F6BB,restroom
-U0001F6BC,baby symbol
-U0001F6BD,toilet
-U0001F6BE,water closet
-U0001F6C0,bath
-U000024C2,circled latin capital letter m
-U0001F170,negative squared latin capital letter a
-U0001F171,negative squared latin capital letter b
-U0001F17E,negative squared latin capital letter o
-U0001F17F,negative squared latin capital letter p
-U0001F18E,negative squared ab
-U0001F191,squared cl
-U0001F192,squared cool
-U0001F193,squared free
-U0001F194,squared id
-U0001F195,squared new
-U0001F196,squared ng
-U0001F197,squared ok
-U0001F198,squared sos
-U0001F199,squared up with exclamation mark
-U0001F19A,squared vs
-U0001F201,squared katakana koko
-U0001F202,squared katakana sa
-U0001F21A,squared cjk unified ideograph-7121
-U0001F22F,squared cjk unified ideograph-6307
-U0001F232,squared cjk unified ideograph-7981
-U0001F233,squared cjk unified ideograph-7a7a
-U0001F234,squared cjk unified ideograph-5408
-U0001F235,squared cjk unified ideograph-6e80
-U0001F236,squared cjk unified ideograph-6709
-U0001F237,squared cjk unified ideograph-6708
-U0001F238,squared cjk unified ideograph-7533
-U0001F239,squared cjk unified ideograph-5272
-U0001F23A,squared cjk unified ideograph-55b6
-U0001F250,circled ideograph advantage
-U0001F251,circled ideograph accept
-U000000A9,copyright sign
-U000000AE,registered sign
-U0000203C,double exclamation mark
-U00002049,exclamation question mark
-U00002122,trade mark sign
-U00002139,information source
-U00002194,left right arrow
-U00002195,up down arrow
-U00002196,north west arrow
-U00002197,north east arrow
-U00002198,south east arrow
-U00002199,south west arrow
-U000021A9,leftwards arrow with hook
-U000021AA,rightwards arrow with hook
-U0000231A,watch
-U0000231B,hourglass
-U000023E9,black right-pointing double triangle
-U000023EA,black left-pointing double triangle
-U000023EB,black up-pointing double triangle
-U000023EC,black down-pointing double triangle
-U000023F0,alarm clock
-U000023F3,hourglass with flowing sand
-U000025AA,black small square
-U000025AB,white small square
-U000025B6,black right-pointing triangle
-U000025C0,black left-pointing triangle
-U000025FB,white medium square
-U000025FC,black medium square
-U000025FD,white medium small square
-U000025FE,black medium small square
-U00002600,black sun with rays
-U00002601,cloud
-U0000260E,black telephone
-U00002611,ballot box with check
-U00002614,umbrella with rain drops
-U00002615,hot beverage
-U0000261D,white up pointing index
-U0000263A,white smiling face
-U00002648,aries
-U00002649,taurus
-U0000264A,gemini
-U0000264B,cancer
-U0000264C,leo
-U0000264D,virgo
-U0000264E,libra
-U0000264F,scorpius
-U00002650,sagittarius
-U00002651,capricorn
-U00002652,aquarius
-U00002653,pisces
-U00002660,black spade suit
-U00002663,black club suit
-U00002665,black heart suit
-U00002666,black diamond suit
-U00002668,hot springs
-U0000267B,black universal recycling symbol
-U0000267F,wheelchair symbol
-U00002693,anchor
-U000026A0,warning sign
-U000026A1,high voltage sign
-U000026AA,medium white circle
-U000026AB,medium black circle
-U000026BD,soccer ball
-U000026BE,baseball
-U000026C4,snowman without snow
-U000026C5,sun behind cloud
-U000026CE,ophiuchus
-U000026D4,no entry
-U000026EA,church
-U000026F2,fountain
-U000026F3,flag in hole
-U000026F5,sailboat
-U000026FA,tent
-U000026FD,fuel pump
-U00002934,arrow pointing rightwards then curving upwards
-U00002935,arrow pointing rightwards then curving downwards
-U00002B05,leftwards black arrow
-U00002B06,upwards black arrow
-U00002B07,downwards black arrow
-U00002B1B,black large square
-U00002B1C,white large square
-U00002B50,white medium star
-U00002B55,heavy large circle
-U00003030,wavy dash
-U0000303D,part alternation mark
-U00003297,circled ideograph congratulation
-U00003299,circled ideograph secret
-U0001F004,mahjong tile red dragon
-U0001F0CF,playing card black joker
-U0001F300,cyclone
-U0001F301,foggy
-U0001F302,closed umbrella
-U0001F303,night with stars
-U0001F304,sunrise over mountains
-U0001F305,sunrise
-U0001F306,cityscape at dusk
-U0001F307,sunset over buildings
-U0001F308,rainbow
-U0001F309,bridge at night
-U0001F30A,water wave
-U0001F30B,volcano
-U0001F30C,milky way
-U0001F30F,earth globe asia-australia
-U0001F311,new moon symbol
-U0001F313,first quarter moon symbol
-U0001F314,waxing gibbous moon symbol
-U0001F315,full moon symbol
-U0001F319,crescent moon
-U0001F31B,first quarter moon with face
-U0001F31F,glowing star
-U0001F320,shooting star
-U0001F330,chestnut
-U0001F331,seedling
-U0001F334,palm tree
-U0001F335,cactus
-U0001F337,tulip
-U0001F338,cherry blossom
-U0001F339,rose
-U0001F33A,hibiscus
-U0001F33B,sunflower
-U0001F33C,blossom
-U0001F33D,ear of maize
-U0001F33E,ear of rice
-U0001F33F,herb
-U0001F340,four leaf clover
-U0001F341,maple leaf
-U0001F342,fallen leaf
-U0001F343,leaf fluttering in wind
-U0001F344,mushroom
-U0001F345,tomato
-U0001F346,aubergine
-U0001F347,grapes
-U0001F348,melon
-U0001F349,watermelon
-U0001F34A,tangerine
-U0001F34C,banana
-U0001F34D,pineapple
-U0001F34E,red apple
-U0001F34F,green apple
-U0001F351,peach
-U0001F352,cherries
-U0001F353,strawberry
-U0001F354,hamburger
-U0001F355,slice of pizza
-U0001F356,meat on bone
-U0001F357,poultry leg
-U0001F358,rice cracker
-U0001F359,rice ball
-U0001F35A,cooked rice
-U0001F35B,curry and rice
-U0001F35C,steaming bowl
-U0001F35D,spaghetti
-U0001F35E,bread
-U0001F35F,french fries
-U0001F360,roasted sweet potato
-U0001F361,dango
-U0001F362,oden
-U0001F363,sushi
-U0001F364,fried shrimp
-U0001F365,fish cake with swirl design
-U0001F366,soft ice cream
-U0001F367,shaved ice
-U0001F368,ice cream
-U0001F369,doughnut
-U0001F36A,cookie
-U0001F36B,chocolate bar
-U0001F36C,candy
-U0001F36D,lollipop
-U0001F36E,custard
-U0001F36F,honey pot
-U0001F370,shortcake
-U0001F371,bento box
-U0001F372,pot of food
-U0001F373,cooking
-U0001F374,fork and knife
-U0001F375,teacup without handle
-U0001F376,sake bottle and cup
-U0001F377,wine glass
-U0001F378,cocktail glass
-U0001F379,tropical drink
-U0001F37A,beer mug
-U0001F37B,clinking beer mugs
-U0001F380,ribbon
-U0001F381,wrapped present
-U0001F382,birthday cake
-U0001F383,jack-o-lantern
-U0001F384,christmas tree
-U0001F385,father christmas
-U0001F386,fireworks
-U0001F387,firework sparkler
-U0001F388,balloon
-U0001F389,party popper
-U0001F38A,confetti ball
-U0001F38B,tanabata tree
-U0001F38C,crossed flags
-U0001F38D,pine decoration
-U0001F38E,japanese dolls
-U0001F38F,carp streamer
-U0001F390,wind chime
-U0001F391,moon viewing ceremony
-U0001F392,school satchel
-U0001F393,graduation cap
-U0001F3A0,carousel horse
-U0001F3A1,ferris wheel
-U0001F3A2,roller coaster
-U0001F3A3,fishing pole and fish
-U0001F3A4,microphone
-U0001F3A5,movie camera
-U0001F3A6,cinema
-U0001F3A7,headphone
-U0001F3A8,artist palette
-U0001F3A9,top hat
-U0001F3AA,circus tent
-U0001F3AB,ticket
-U0001F3AC,clapper board
-U0001F3AD,performing arts
-U0001F3AE,video game
-U0001F3AF,direct hit
-U0001F3B0,slot machine
-U0001F3B1,billiards
-U0001F3B2,game die
-U0001F3B3,bowling
-U0001F3B4,flower playing cards
-U0001F3B5,musical note
-U0001F3B6,multiple musical notes
-U0001F3B7,saxophone
-U0001F3B8,guitar
-U0001F3B9,musical keyboard
-U0001F3BA,trumpet
-U0001F3BB,violin
-U0001F3BC,musical score
-U0001F3BD,running shirt with sash
-U0001F3BE,tennis racquet and ball
-U0001F3BF,ski and ski boot
-U0001F3C0,basketball and hoop
-U0001F3C1,chequered flag
-U0001F3C2,snowboarder
-U0001F3C3,runner
-U0001F3C4,surfer
-U0001F3C6,trophy
-U0001F3C8,american football
-U0001F3CA,swimmer
-U0001F3E0,house building
-U0001F3E1,house with garden
-U0001F3E2,office building
-U0001F3E3,japanese post office
-U0001F3E5,hospital
-U0001F3E6,bank
-U0001F3E7,automated teller machine
-U0001F3E8,hotel
-U0001F3E9,love hotel
-U0001F3EA,convenience store
-U0001F3EB,school
-U0001F3EC,department store
-U0001F3ED,factory
-U0001F3EE,izakaya lantern
-U0001F3EF,japanese castle
-U0001F3F0,european castle
-U0001F40C,snail
-U0001F40D,snake
-U0001F40E,horse
-U0001F411,sheep
-U0001F412,monkey
-U0001F414,chicken
-U0001F417,boar
-U0001F418,elephant
-U0001F419,octopus
-U0001F41A,spiral shell
-U0001F41B,bug
-U0001F41C,ant
-U0001F41D,honeybee
-U0001F41E,lady beetle
-U0001F41F,fish
-U0001F420,tropical fish
-U0001F421,blowfish
-U0001F422,turtle
-U0001F423,hatching chick
-U0001F424,baby chick
-U0001F425,front-facing baby chick
-U0001F426,bird
-U0001F427,penguin
-U0001F428,koala
-U0001F429,poodle
-U0001F42B,bactrian camel
-U0001F42C,dolphin
-U0001F42D,mouse face
-U0001F42E,cow face
-U0001F42F,tiger face
-U0001F430,rabbit face
-U0001F431,cat face
-U0001F432,dragon face
-U0001F433,spouting whale
-U0001F434,horse face
-U0001F435,monkey face
-U0001F436,dog face
-U0001F437,pig face
-U0001F438,frog face
-U0001F439,hamster face
-U0001F43A,wolf face
-U0001F43B,bear face
-U0001F43C,panda face
-U0001F43D,pig nose
-U0001F43E,paw prints
-U0001F440,eyes
-U0001F442,ear
-U0001F443,nose
-U0001F444,mouth
-U0001F445,tongue
-U0001F446,white up pointing backhand index
-U0001F447,white down pointing backhand index
-U0001F448,white left pointing backhand index
-U0001F449,white right pointing backhand index
-U0001F44A,fisted hand sign
-U0001F44B,waving hand sign
-U0001F44C,ok hand sign
-U0001F44D,thumbs up sign
-U0001F44E,thumbs down sign
-U0001F44F,clapping hands sign
-U0001F450,open hands sign
-U0001F451,crown
-U0001F452,womans hat
-U0001F453,eyeglasses
-U0001F454,necktie
-U0001F455,t-shirt
-U0001F456,jeans
-U0001F457,dress
-U0001F458,kimono
-U0001F459,bikini
-U0001F45A,womans clothes
-U0001F45B,purse
-U0001F45C,handbag
-U0001F45D,pouch
-U0001F45E,mans shoe
-U0001F45F,athletic shoe
-U0001F460,high-heeled shoe
-U0001F461,womans sandal
-U0001F462,womans boots
-U0001F463,footprints
-U0001F464,bust in silhouette
+U0001F621,angry face mad pouting rage red
+U0001F620,angry face mad
+U0001F607,angel face fairy tale fantasy halo innocent smile
+U0001F920,cowboy cowgirl face hat
+U0001F921,clown face
+U0001F925,face lie pinocchio
+U0001F637,cold doctor face mask medicine sick
+U0001F912,face ill sick thermometer
+U0001F915,bandage face hurt injury
+U0001F922,face nauseated vomit
+U0001F927,face gesundheit sneeze
+U0001F608,face fairy tale fantasy horns smile
+U0001F47F,demon devil face fairy tale fantasy imp
+U0001F479,creature face fairy tale fantasy japanese monster ogre
+U0001F47A,creature face fairy tale fantasy goblin japanese monster
+U0001F480,body death face fairy tale monster skull
+U00002620,body crossbones death face monster skull
+U0001F47B,creature face fairy tale fantasy ghost monster
+U0001F47D,alien creature extraterrestrial face fairy tale fantasy monster space ufo
+U0001F47E,alien creature extraterrestrial face fairy tale fantasy monster space ufo
+U0001F916,face monster robot
+U0001F4A9,comic dung face monster poo poop
+U0001F63A,cat face mouth open smile
+U0001F638,cat eye face grin smile
+U0001F639,cat face joy tear
+U0001F63B,cat eye face heart love smile
+U0001F63C,cat face ironic smile wry
+U0001F63D,cat eye face kiss
+U0001F640,cat face oh surprised weary
+U0001F63F,cat cry face sad tear
+U0001F63E,cat face pouting
+U0001F648,evil face forbidden gesture monkey no not prohibited see
+U0001F649,evil face forbidden gesture hear monkey no not prohibited
+U0001F64A,evil face forbidden gesture monkey no not prohibited speak
 U0001F466,boy
-U0001F467,girl
+U1F466 U1F3FB,boy
+U1F466 U1F3FC,boy
+U1F466 U1F3FD,boy
+U1F466 U1F3FE,boy
+U1F466 U1F3FF,boy
+U0001F467,girl maiden virgin virgo zodiac
+U1F467 U1F3FB,girl maiden virgin virgo zodiac
+U1F467 U1F3FC,girl maiden virgin virgo zodiac
+U1F467 U1F3FD,girl maiden virgin virgo zodiac
+U1F467 U1F3FE,girl maiden virgin virgo zodiac
+U1F467 U1F3FF,girl maiden virgin virgo zodiac
 U0001F468,man
+U1F468 U1F3FB,man
+U1F468 U1F3FC,man
+U1F468 U1F3FD,man
+U1F468 U1F3FE,man
+U1F468 U1F3FF,man
 U0001F469,woman
-U0001F46A,family
-U0001F46B,man and woman holding hands
-U0001F46E,police officer
-U0001F46F,woman with bunny ears
-U0001F470,bride with veil
-U0001F471,person with blond hair
-U0001F472,man with gua pi mao
-U0001F473,man with turban
-U0001F474,older man
-U0001F475,older woman
+U1F469 U1F3FB,woman
+U1F469 U1F3FC,woman
+U1F469 U1F3FD,woman
+U1F469 U1F3FE,woman
+U1F469 U1F3FF,woman
+U0001F474,man old
+U1F474 U1F3FB,man old
+U1F474 U1F3FC,man old
+U1F474 U1F3FD,man old
+U1F474 U1F3FE,man old
+U1F474 U1F3FF,man old
+U0001F475,old woman
+U1F475 U1F3FB,old woman
+U1F475 U1F3FC,old woman
+U1F475 U1F3FD,old woman
+U1F475 U1F3FE,old woman
+U1F475 U1F3FF,old woman
 U0001F476,baby
-U0001F477,construction worker
-U0001F478,princess
-U0001F479,japanese ogre
-U0001F47A,japanese goblin
-U0001F47B,ghost
-U0001F47C,baby angel
-U0001F47D,extraterrestrial alien
-U0001F47E,alien monster
-U0001F47F,imp
-U0001F480,skull
-U0001F481,information desk person
-U0001F482,guardsman
+U1F476 U1F3FB,baby
+U1F476 U1F3FC,baby
+U1F476 U1F3FD,baby
+U1F476 U1F3FE,baby
+U1F476 U1F3FF,baby
+U0001F47C,angel baby face fairy tale fantasy
+U1F47C U1F3FB,angel baby face fairy tale fantasy
+U1F47C U1F3FC,angel baby face fairy tale fantasy
+U1F47C U1F3FD,angel baby face fairy tale fantasy
+U1F47C U1F3FE,angel baby face fairy tale fantasy
+U1F47C U1F3FF,angel baby face fairy tale fantasy
+U0001F471,blond
+U1F471 U1F3FB,blond
+U1F471 U1F3FC,blond
+U1F471 U1F3FD,blond
+U1F471 U1F3FE,blond
+U1F471 U1F3FF,blond
+U0001F46E,cop officer police
+U1F46E U1F3FB,cop officer police
+U1F46E U1F3FC,cop officer police
+U1F46E U1F3FD,cop officer police
+U1F46E U1F3FE,cop officer police
+U1F46E U1F3FF,cop officer police
+U0001F472,gua pi mao hat man
+U1F472 U1F3FB,gua pi mao hat man
+U1F472 U1F3FC,gua pi mao hat man
+U1F472 U1F3FD,gua pi mao hat man
+U1F472 U1F3FE,gua pi mao hat man
+U1F472 U1F3FF,gua pi mao hat man
+U0001F473,man turban
+U1F473 U1F3FB,man turban
+U1F473 U1F3FC,man turban
+U1F473 U1F3FD,man turban
+U1F473 U1F3FE,man turban
+U1F473 U1F3FF,man turban
+U0001F477,construction hat worker
+U1F477 U1F3FB,construction hat worker
+U1F477 U1F3FC,construction hat worker
+U1F477 U1F3FD,construction hat worker
+U1F477 U1F3FE,construction hat worker
+U1F477 U1F3FF,construction hat worker
+U0001F478,fairy tale fantasy princess
+U1F478 U1F3FB,fairy tale fantasy princess
+U1F478 U1F3FC,fairy tale fantasy princess
+U1F478 U1F3FD,fairy tale fantasy princess
+U1F478 U1F3FE,fairy tale fantasy princess
+U1F478 U1F3FF,fairy tale fantasy princess
+U0001F934,prince
+U1F934 U1F3FB,prince
+U1F934 U1F3FC,prince
+U1F934 U1F3FD,prince
+U1F934 U1F3FE,prince
+U1F934 U1F3FF,prince
+U0001F482,guard guardsman
+U1F482 U1F3FB,guard guardsman
+U1F482 U1F3FC,guard guardsman
+U1F482 U1F3FD,guard guardsman
+U1F482 U1F3FE,guard guardsman
+U1F482 U1F3FF,guard guardsman
+U0001F575,detective sleuth spy
+U1F575 U1F3FB,detective sleuth spy
+U1F575 U1F3FC,detective sleuth spy
+U1F575 U1F3FD,detective sleuth spy
+U1F575 U1F3FE,detective sleuth spy
+U1F575 U1F3FF,detective sleuth spy
+U0001F385,activity celebration christmas fairy tale fantasy father santa
+U1F385 U1F3FB,activity celebration christmas fairy tale fantasy father santa
+U1F385 U1F3FC,activity celebration christmas fairy tale fantasy father santa
+U1F385 U1F3FD,activity celebration christmas fairy tale fantasy father santa
+U1F385 U1F3FE,activity celebration christmas fairy tale fantasy father santa
+U1F385 U1F3FF,activity celebration christmas fairy tale fantasy father santa
+U0001F936,christmas mother mrs. claus
+U1F936 U1F3FB,christmas mother mrs. claus
+U1F936 U1F3FC,christmas mother mrs. claus
+U1F936 U1F3FD,christmas mother mrs. claus
+U1F936 U1F3FE,christmas mother mrs. claus
+U1F936 U1F3FF,christmas mother mrs. claus
+U0001F470,bride veil wedding
+U1F470 U1F3FB,bride veil wedding
+U1F470 U1F3FC,bride veil wedding
+U1F470 U1F3FD,bride veil wedding
+U1F470 U1F3FE,bride veil wedding
+U1F470 U1F3FF,bride veil wedding
+U0001F935,groom man tuxedo
+U1F935 U1F3FB,groom man tuxedo
+U1F935 U1F3FC,groom man tuxedo
+U1F935 U1F3FD,groom man tuxedo
+U1F935 U1F3FE,groom man tuxedo
+U1F935 U1F3FF,groom man tuxedo
+U0001F486,massage salon
+U1F486 U1F3FB,massage salon
+U1F486 U1F3FC,massage salon
+U1F486 U1F3FD,massage salon
+U1F486 U1F3FE,massage salon
+U1F486 U1F3FF,massage salon
+U0001F487,barber beauty haircut parlor
+U1F487 U1F3FB,barber beauty haircut parlor
+U1F487 U1F3FC,barber beauty haircut parlor
+U1F487 U1F3FD,barber beauty haircut parlor
+U1F487 U1F3FE,barber beauty haircut parlor
+U1F487 U1F3FF,barber beauty haircut parlor
+U0001F64D,frown gesture
+U1F64D U1F3FB,frown gesture
+U1F64D U1F3FC,frown gesture
+U1F64D U1F3FD,frown gesture
+U1F64D U1F3FE,frown gesture
+U1F64D U1F3FF,frown gesture
+U0001F64E,gesture pouting
+U1F64E U1F3FB,gesture pouting
+U1F64E U1F3FC,gesture pouting
+U1F64E U1F3FD,gesture pouting
+U1F64E U1F3FE,gesture pouting
+U1F64E U1F3FF,gesture pouting
+U0001F645,forbidden gesture hand no not prohibited
+U1F645 U1F3FB,forbidden gesture hand no not prohibited
+U1F645 U1F3FC,forbidden gesture hand no not prohibited
+U1F645 U1F3FD,forbidden gesture hand no not prohibited
+U1F645 U1F3FE,forbidden gesture hand no not prohibited
+U1F645 U1F3FF,forbidden gesture hand no not prohibited
+U0001F646,gesture hand ok
+U1F646 U1F3FB,gesture hand ok
+U1F646 U1F3FC,gesture hand ok
+U1F646 U1F3FD,gesture hand ok
+U1F646 U1F3FE,gesture hand ok
+U1F646 U1F3FF,gesture hand ok
+U0001F481,hand help information sassy
+U1F481 U1F3FB,hand help information sassy
+U1F481 U1F3FC,hand help information sassy
+U1F481 U1F3FD,hand help information sassy
+U1F481 U1F3FE,hand help information sassy
+U1F481 U1F3FF,hand help information sassy
+U0001F937,doubt ignorance indifference shrug
+U1F937 U1F3FB,doubt ignorance indifference shrug
+U1F937 U1F3FC,doubt ignorance indifference shrug
+U1F937 U1F3FD,doubt ignorance indifference shrug
+U1F937 U1F3FE,doubt ignorance indifference shrug
+U1F937 U1F3FF,doubt ignorance indifference shrug
+U0001F64B,gesture hand happy raised
+U1F64B U1F3FB,gesture hand happy raised
+U1F64B U1F3FC,gesture hand happy raised
+U1F64B U1F3FD,gesture hand happy raised
+U1F64B U1F3FE,gesture hand happy raised
+U1F64B U1F3FF,gesture hand happy raised
+U0001F926,disbelief exasperation face palm
+U1F926 U1F3FB,disbelief exasperation face palm
+U1F926 U1F3FC,disbelief exasperation face palm
+U1F926 U1F3FD,disbelief exasperation face palm
+U1F926 U1F3FE,disbelief exasperation face palm
+U1F926 U1F3FF,disbelief exasperation face palm
+U0001F647,apology bow gesture sorry
+U1F647 U1F3FB,apology bow gesture sorry
+U1F647 U1F3FC,apology bow gesture sorry
+U1F647 U1F3FD,apology bow gesture sorry
+U1F647 U1F3FE,apology bow gesture sorry
+U1F647 U1F3FF,apology bow gesture sorry
+U0001F6B6,hike pedestrian walk walking
+U1F6B6 U1F3FB,hike pedestrian walk walking
+U1F6B6 U1F3FC,hike pedestrian walk walking
+U1F6B6 U1F3FD,hike pedestrian walk walking
+U1F6B6 U1F3FE,hike pedestrian walk walking
+U1F6B6 U1F3FF,hike pedestrian walk walking
+U0001F3C3,marathon runner running
+U1F3C3 U1F3FB,marathon runner running
+U1F3C3 U1F3FC,marathon runner running
+U1F3C3 U1F3FD,marathon runner running
+U1F3C3 U1F3FE,marathon runner running
+U1F3C3 U1F3FF,marathon runner running
 U0001F483,dancer
-U0001F484,lipstick
-U0001F485,nail polish
-U0001F486,face massage
-U0001F487,haircut
-U0001F488,barber pole
-U0001F489,syringe
-U0001F48A,pill
-U0001F48B,kiss mark
-U0001F48C,love letter
-U0001F48D,ring
-U0001F48E,gem stone
-U0001F48F,kiss
-U0001F490,bouquet
-U0001F491,couple with heart
-U0001F492,wedding
-U0001F493,beating heart
-U0001F494,broken heart
-U0001F495,two hearts
-U0001F496,sparkling heart
-U0001F497,growing heart
-U0001F498,heart with arrow
+U1F483 U1F3FB,dancer
+U1F483 U1F3FC,dancer
+U1F483 U1F3FD,dancer
+U1F483 U1F3FE,dancer
+U1F483 U1F3FF,dancer
+U0001F57A,dance man
+U1F57A U1F3FB,dance man
+U1F57A U1F3FC,dance man
+U1F57A U1F3FD,dance man
+U1F57A U1F3FE,dance man
+U1F57A U1F3FF,dance man
+U0001F930,pregnant woman
+U1F930 U1F3FB,pregnant woman
+U1F930 U1F3FC,pregnant woman
+U1F930 U1F3FD,pregnant woman
+U1F930 U1F3FE,pregnant woman
+U1F930 U1F3FF,pregnant woman
+U0001F46F,bunny dancer ear girl woman
+U0001F574,business man suit
+U0001F5E3,face head silhouette speak speaking
+U0001F464,bust silhouette
+U0001F465,bust silhouette
+U0001F46B,couple hand hold man woman
+U0001F46C,couple gemini hand hold man twins zodiac
+U0001F46D,couple hand hold woman
+U0001F48F,couple kiss romance
+U1F469 U200D U2764 UFE0F U200D U1F48B U200D U1F468,kiss man woman
+U1F468 U200D U2764 UFE0F U200D U1F48B U200D U1F468,kiss man
+U1F469 U200D U2764 UFE0F U200D U1F48B U200D U1F469,kiss woman
+U0001F491,couple heart love romance
+U1F469 U200D U2764 UFE0F U200D U1F468,couple man woman
+U1F468 U200D U2764 UFE0F U200D U1F468,couple man
+U1F469 U200D U2764 UFE0F U200D U1F469,couple woman
+U0001F46A,child family father mother
+U1F468 U200D U1F469 U200D U1F466,boy family man woman
+U1F468 U200D U1F469 U200D U1F467,family girl man woman
+U1F468 U200D U1F469 U200D U1F467 U200D U1F466,boy family girl man woman
+U1F468 U200D U1F469 U200D U1F466 U200D U1F466,boy family man woman
+U1F468 U200D U1F469 U200D U1F467 U200D U1F467,family girl man woman
+U1F468 U200D U1F468 U200D U1F466,boy family man
+U1F468 U200D U1F468 U200D U1F467,family girl man
+U1F468 U200D U1F468 U200D U1F467 U200D U1F466,boy family girl man
+U1F468 U200D U1F468 U200D U1F466 U200D U1F466,boy family man
+U1F468 U200D U1F468 U200D U1F467 U200D U1F467,family girl man
+U1F469 U200D U1F469 U200D U1F466,boy family woman
+U1F469 U200D U1F469 U200D U1F467,family girl woman
+U1F469 U200D U1F469 U200D U1F467 U200D U1F466,boy family girl woman
+U1F469 U200D U1F469 U200D U1F466 U200D U1F466,boy family woman
+U1F469 U200D U1F469 U200D U1F467 U200D U1F467,family girl woman
+U0001F3FB,emoji modifier fitzpatrick skin tone
+U0001F3FC,emoji modifier fitzpatrick skin tone
+U0001F3FD,emoji modifier fitzpatrick skin tone
+U0001F3FE,emoji modifier fitzpatrick skin tone
+U0001F3FF,emoji modifier fitzpatrick skin tone
+U0001F4AA,biceps body comic flex muscle
+U1F4AA U1F3FB,biceps body comic flex muscle
+U1F4AA U1F3FC,biceps body comic flex muscle
+U1F4AA U1F3FD,biceps body comic flex muscle
+U1F4AA U1F3FE,biceps body comic flex muscle
+U1F4AA U1F3FF,biceps body comic flex muscle
+U0001F933,camera phone selfie
+U1F933 U1F3FB,camera phone selfie
+U1F933 U1F3FC,camera phone selfie
+U1F933 U1F3FD,camera phone selfie
+U1F933 U1F3FE,camera phone selfie
+U1F933 U1F3FF,camera phone selfie
+U0001F448,backhand body finger hand index point
+U1F448 U1F3FB,backhand body finger hand index point
+U1F448 U1F3FC,backhand body finger hand index point
+U1F448 U1F3FD,backhand body finger hand index point
+U1F448 U1F3FE,backhand body finger hand index point
+U1F448 U1F3FF,backhand body finger hand index point
+U0001F449,backhand body finger hand index point
+U1F449 U1F3FB,backhand body finger hand index point
+U1F449 U1F3FC,backhand body finger hand index point
+U1F449 U1F3FD,backhand body finger hand index point
+U1F449 U1F3FE,backhand body finger hand index point
+U1F449 U1F3FF,backhand body finger hand index point
+U0000261D,body finger hand index point up
+U261D U1F3FB,body finger hand index point up
+U261D U1F3FC,body finger hand index point up
+U261D U1F3FD,body finger hand index point up
+U261D U1F3FE,body finger hand index point up
+U261D U1F3FF,body finger hand index point up
+U0001F446,backhand body finger hand index point up
+U1F446 U1F3FB,backhand body finger hand index point up
+U1F446 U1F3FC,backhand body finger hand index point up
+U1F446 U1F3FD,backhand body finger hand index point up
+U1F446 U1F3FE,backhand body finger hand index point up
+U1F446 U1F3FF,backhand body finger hand index point up
+U0001F595,body finger hand middle finger
+U1F595 U1F3FB,body finger hand middle finger
+U1F595 U1F3FC,body finger hand middle finger
+U1F595 U1F3FD,body finger hand middle finger
+U1F595 U1F3FE,body finger hand middle finger
+U1F595 U1F3FF,body finger hand middle finger
+U0001F447,backhand body down finger hand index point
+U1F447 U1F3FB,backhand body down finger hand index point
+U1F447 U1F3FC,backhand body down finger hand index point
+U1F447 U1F3FD,backhand body down finger hand index point
+U1F447 U1F3FE,backhand body down finger hand index point
+U1F447 U1F3FF,backhand body down finger hand index point
+U0000270C,body hand v victory
+U270C U1F3FB,body hand v victory
+U270C U1F3FC,body hand v victory
+U270C U1F3FD,body hand v victory
+U270C U1F3FE,body hand v victory
+U270C U1F3FF,body hand v victory
+U0001F91E,cross finger hand luck
+U1F91E U1F3FB,cross finger hand luck
+U1F91E U1F3FC,cross finger hand luck
+U1F91E U1F3FD,cross finger hand luck
+U1F91E U1F3FE,cross finger hand luck
+U1F91E U1F3FF,cross finger hand luck
+U0001F596,body finger hand spock vulcan
+U1F596 U1F3FB,body finger hand spock vulcan
+U1F596 U1F3FC,body finger hand spock vulcan
+U1F596 U1F3FD,body finger hand spock vulcan
+U1F596 U1F3FE,body finger hand spock vulcan
+U1F596 U1F3FF,body finger hand spock vulcan
+U0001F918,body finger hand horns rock-on
+U1F918 U1F3FB,body finger hand horns rock-on
+U1F918 U1F3FC,body finger hand horns rock-on
+U1F918 U1F3FD,body finger hand horns rock-on
+U1F918 U1F3FE,body finger hand horns rock-on
+U1F918 U1F3FF,body finger hand horns rock-on
+U0001F919,call hand
+U1F919 U1F3FB,call hand
+U1F919 U1F3FC,call hand
+U1F919 U1F3FD,call hand
+U1F919 U1F3FE,call hand
+U1F919 U1F3FF,call hand
+U0001F590,body finger hand splayed
+U1F590 U1F3FB,body finger hand splayed
+U1F590 U1F3FC,body finger hand splayed
+U1F590 U1F3FD,body finger hand splayed
+U1F590 U1F3FE,body finger hand splayed
+U1F590 U1F3FF,body finger hand splayed
+U0000270B,body hand
+U270B U1F3FB,body hand
+U270B U1F3FC,body hand
+U270B U1F3FD,body hand
+U270B U1F3FE,body hand
+U270B U1F3FF,body hand
+U0001F44C,body hand ok
+U1F44C U1F3FB,body hand ok
+U1F44C U1F3FC,body hand ok
+U1F44C U1F3FD,body hand ok
+U1F44C U1F3FE,body hand ok
+U1F44C U1F3FF,body hand ok
+U0001F44D,+1 body hand thumb thumbs up up
+U1F44D U1F3FB,+1 body hand thumb thumbs up up
+U1F44D U1F3FC,+1 body hand thumb thumbs up up
+U1F44D U1F3FD,+1 body hand thumb thumbs up up
+U1F44D U1F3FE,+1 body hand thumb thumbs up up
+U1F44D U1F3FF,+1 body hand thumb thumbs up up
+U0001F44E,-1 body down hand thumb thumbs down
+U1F44E U1F3FB,-1 body down hand thumb thumbs down
+U1F44E U1F3FC,-1 body down hand thumb thumbs down
+U1F44E U1F3FD,-1 body down hand thumb thumbs down
+U1F44E U1F3FE,-1 body down hand thumb thumbs down
+U1F44E U1F3FF,-1 body down hand thumb thumbs down
+U0000270A,body clenched fist hand punch
+U270A U1F3FB,body clenched fist hand punch
+U270A U1F3FC,body clenched fist hand punch
+U270A U1F3FD,body clenched fist hand punch
+U270A U1F3FE,body clenched fist hand punch
+U270A U1F3FF,body clenched fist hand punch
+U0001F44A,body clenched fist hand punch
+U1F44A U1F3FB,body clenched fist hand punch
+U1F44A U1F3FC,body clenched fist hand punch
+U1F44A U1F3FD,body clenched fist hand punch
+U1F44A U1F3FE,body clenched fist hand punch
+U1F44A U1F3FF,body clenched fist hand punch
+U0001F91B,fist leftwards
+U1F91B U1F3FB,fist leftwards
+U1F91B U1F3FC,fist leftwards
+U1F91B U1F3FD,fist leftwards
+U1F91B U1F3FE,fist leftwards
+U1F91B U1F3FF,fist leftwards
+U0001F91C,fist rightwards
+U1F91C U1F3FB,fist rightwards
+U1F91C U1F3FC,fist rightwards
+U1F91C U1F3FD,fist rightwards
+U1F91C U1F3FE,fist rightwards
+U1F91C U1F3FF,fist rightwards
+U0001F91A,backhand raised
+U1F91A U1F3FB,backhand raised
+U1F91A U1F3FC,backhand raised
+U1F91A U1F3FD,backhand raised
+U1F91A U1F3FE,backhand raised
+U1F91A U1F3FF,backhand raised
+U0001F44B,body hand wave waving
+U1F44B U1F3FB,body hand wave waving
+U1F44B U1F3FC,body hand wave waving
+U1F44B U1F3FD,body hand wave waving
+U1F44B U1F3FE,body hand wave waving
+U1F44B U1F3FF,body hand wave waving
+U0001F44F,body clap hand
+U1F44F U1F3FB,body clap hand
+U1F44F U1F3FC,body clap hand
+U1F44F U1F3FD,body clap hand
+U1F44F U1F3FE,body clap hand
+U1F44F U1F3FF,body clap hand
+U0000270D,body hand write
+U270D U1F3FB,body hand write
+U270D U1F3FC,body hand write
+U270D U1F3FD,body hand write
+U270D U1F3FE,body hand write
+U270D U1F3FF,body hand write
+U0001F450,body hand open
+U1F450 U1F3FB,body hand open
+U1F450 U1F3FC,body hand open
+U1F450 U1F3FD,body hand open
+U1F450 U1F3FE,body hand open
+U1F450 U1F3FF,body hand open
+U0001F64C,body celebration gesture hand hooray raised
+U1F64C U1F3FB,body celebration gesture hand hooray raised
+U1F64C U1F3FC,body celebration gesture hand hooray raised
+U1F64C U1F3FD,body celebration gesture hand hooray raised
+U1F64C U1F3FE,body celebration gesture hand hooray raised
+U1F64C U1F3FF,body celebration gesture hand hooray raised
+U0001F64F,ask body bow folded gesture hand please pray thanks
+U1F64F U1F3FB,ask body bow folded gesture hand please pray thanks
+U1F64F U1F3FC,ask body bow folded gesture hand please pray thanks
+U1F64F U1F3FD,ask body bow folded gesture hand please pray thanks
+U1F64F U1F3FE,ask body bow folded gesture hand please pray thanks
+U1F64F U1F3FF,ask body bow folded gesture hand please pray thanks
+U0001F91D,agreement hand handshake meeting shake
+U1F91D U1F3FB,agreement hand handshake meeting shake
+U1F91D U1F3FC,agreement hand handshake meeting shake
+U1F91D U1F3FD,agreement hand handshake meeting shake
+U1F91D U1F3FE,agreement hand handshake meeting shake
+U1F91D U1F3FF,agreement hand handshake meeting shake
+U0001F485,body care cosmetics manicure nail polish
+U1F485 U1F3FB,body care cosmetics manicure nail polish
+U1F485 U1F3FC,body care cosmetics manicure nail polish
+U1F485 U1F3FD,body care cosmetics manicure nail polish
+U1F485 U1F3FE,body care cosmetics manicure nail polish
+U1F485 U1F3FF,body care cosmetics manicure nail polish
+U0001F442,body ear
+U1F442 U1F3FB,body ear
+U1F442 U1F3FC,body ear
+U1F442 U1F3FD,body ear
+U1F442 U1F3FE,body ear
+U1F442 U1F3FF,body ear
+U0001F443,body nose
+U1F443 U1F3FB,body nose
+U1F443 U1F3FC,body nose
+U1F443 U1F3FD,body nose
+U1F443 U1F3FE,body nose
+U1F443 U1F3FF,body nose
+U0001F463,body clothing footprint print
+U0001F440,body eye face
+U0001F441,body eye
+U1F441 U200D U1F5E8,bubble eye speech witness
+U0001F445,body tongue
+U0001F444,body lips mouth
+U0001F48B,heart kiss lips mark romance
+U0001F498,arrow cupid heart romance
+U00002764,heart
+U0001F493,beating heart heartbeat pulsating
+U0001F494,break broken heart
+U0001F495,heart love
+U0001F496,excited heart sparkle
+U0001F497,excited growing heart heartpulse nervous
 U0001F499,blue heart
 U0001F49A,green heart
-U0001F49B,yellow heart
-U0001F49C,purple heart
-U0001F49D,heart with ribbon
-U0001F49E,revolving hearts
-U0001F49F,heart decoration
-U0001F4A0,diamond shape with a dot inside
-U0001F4A1,electric light bulb
-U0001F4A2,anger symbol
-U0001F4A3,bomb
-U0001F4A4,sleeping symbol
-U0001F4A5,collision symbol
-U0001F4A6,splashing sweat symbol
-U0001F4A7,droplet
-U0001F4A8,dash symbol
-U0001F4A9,pile of poo
-U0001F4AA,flexed biceps
-U0001F4AB,dizzy symbol
-U0001F4AC,speech balloon
-U0001F4AE,white flower
-U0001F4AF,hundred points symbol
-U0001F4B0,money bag
-U0001F4B1,currency exchange
-U0001F4B2,heavy dollar sign
-U0001F4B3,credit card
-U0001F4B4,banknote with yen sign
-U0001F4B5,banknote with dollar sign
-U0001F4B8,money with wings
-U0001F4B9,chart with upwards trend and yen sign
-U0001F4BA,seat
-U0001F4BB,personal computer
-U0001F4BC,briefcase
-U0001F4BD,minidisc
-U0001F4BE,floppy disk
-U0001F4BF,optical disc
-U0001F4C0,dvd
-U0001F4C1,file folder
-U0001F4C2,open file folder
-U0001F4C3,page with curl
-U0001F4C4,page facing up
-U0001F4C5,calendar
-U0001F4C6,tear-off calendar
-U0001F4C7,card index
-U0001F4C8,chart with upwards trend
-U0001F4C9,chart with downwards trend
-U0001F4CA,bar chart
-U0001F4CB,clipboard
-U0001F4CC,pushpin
-U0001F4CD,round pushpin
-U0001F4CE,paperclip
-U0001F4CF,straight ruler
-U0001F4D0,triangular ruler
-U0001F4D1,bookmark tabs
-U0001F4D2,ledger
-U0001F4D3,notebook
-U0001F4D4,notebook with decorative cover
-U0001F4D5,closed book
-U0001F4D6,open book
-U0001F4D7,green book
-U0001F4D8,blue book
-U0001F4D9,orange book
-U0001F4DA,books
-U0001F4DB,name badge
-U0001F4DC,scroll
-U0001F4DD,memo
-U0001F4DE,telephone receiver
-U0001F4DF,pager
-U0001F4E0,fax machine
-U0001F4E1,satellite antenna
-U0001F4E2,public address loudspeaker
-U0001F4E3,cheering megaphone
-U0001F4E4,outbox tray
-U0001F4E5,inbox tray
-U0001F4E6,package
-U0001F4E7,e-mail symbol
-U0001F4E8,incoming envelope
-U0001F4E9,envelope with downwards arrow above
-U0001F4EA,closed mailbox with lowered flag
-U0001F4EB,closed mailbox with raised flag
-U0001F4EE,postbox
-U0001F4F0,newspaper
-U0001F4F1,mobile phone
-U0001F4F2,mobile phone with rightwards arrow at left
-U0001F4F3,vibration mode
-U0001F4F4,mobile phone off
-U0001F4F6,antenna with bars
-U0001F4F7,camera
-U0001F4F9,video camera
-U0001F4FA,television
-U0001F4FB,radio
-U0001F4FC,videocassette
-U0001F503,clockwise downwards and upwards open circle arrows
-U0001F50A,speaker with three sound waves
-U0001F50B,battery
-U0001F50C,electric plug
-U0001F50D,left-pointing magnifying glass
-U0001F50E,right-pointing magnifying glass
-U0001F50F,lock with ink pen
-U0001F510,closed lock with key
-U0001F511,key
-U0001F512,lock
-U0001F513,open lock
-U0001F514,bell
-U0001F516,bookmark
-U0001F517,link symbol
-U0001F518,radio button
-U0001F519,back with leftwards arrow above
-U0001F51A,end with leftwards arrow above
-U0001F51B,on with exclamation mark with left right arrow above
-U0001F51C,soon with rightwards arrow above
-U0001F51D,top with upwards arrow above
-U0001F51E,no one under eighteen symbol
-U0001F51F,keycap ten
-U0001F520,input symbol for latin capital letters
-U0001F521,input symbol for latin small letters
-U0001F522,input symbol for numbers
-U0001F523,input symbol for symbols
-U0001F524,input symbol for latin letters
-U0001F525,fire
-U0001F526,electric torch
-U0001F527,wrench
-U0001F528,hammer
-U0001F529,nut and bolt
-U0001F52A,hocho
-U0001F52B,pistol
-U0001F52E,crystal ball
-U0001F52F,six pointed star with middle dot
-U0001F530,japanese symbol for beginner
-U0001F531,trident emblem
-U0001F532,black square button
-U0001F533,white square button
-U0001F534,large red circle
-U0001F535,large blue circle
-U0001F536,large orange diamond
-U0001F537,large blue diamond
-U0001F538,small orange diamond
-U0001F539,small blue diamond
-U0001F53A,up-pointing red triangle
-U0001F53B,down-pointing red triangle
-U0001F53C,up-pointing small red triangle
-U0001F53D,down-pointing small red triangle
-U0001F550,clock face one oclock
-U0001F551,clock face two oclock
-U0001F552,clock face three oclock
-U0001F553,clock face four oclock
-U0001F554,clock face five oclock
-U0001F555,clock face six oclock
-U0001F556,clock face seven oclock
-U0001F557,clock face eight oclock
-U0001F558,clock face nine oclock
-U0001F559,clock face ten oclock
-U0001F55A,clock face eleven oclock
-U0001F55B,clock face twelve oclock
-U0001F5FB,mount fuji
-U0001F5FC,tokyo tower
-U0001F5FD,statue of liberty
-U0001F5FE,silhouette of japan
-U0001F5FF,moyai
-U0001F600,grinning face
-U0001F607,smiling face with halo
-U0001F608,smiling face with horns
-U0001F60E,smiling face with sunglasses
-U0001F610,neutral face
-U0001F611,expressionless face
-U0001F615,confused face
-U0001F617,kissing face
-U0001F619,kissing face with smiling eyes
-U0001F61B,face with stuck-out tongue
-U0001F61F,worried face
-U0001F626,frowning face with open mouth
-U0001F627,anguished face
-U0001F62C,grimacing face
-U0001F62E,face with open mouth
-U0001F62F,hushed face
-U0001F634,sleeping face
-U0001F636,face without mouth
-U0001F681,helicopter
-U0001F682,steam locomotive
-U0001F686,train
-U0001F688,light rail
-U0001F68A,tram
-U0001F68D,oncoming bus
-U0001F68E,trolleybus
-U0001F690,minibus
-U0001F694,oncoming police car
-U0001F696,oncoming taxi
-U0001F698,oncoming automobile
-U0001F69B,articulated lorry
-U0001F69C,tractor
-U0001F69D,monorail
-U0001F69E,mountain railway
-U0001F69F,suspension railway
-U0001F6A0,mountain cableway
-U0001F6A1,aerial tramway
-U0001F6A3,rowboat
-U0001F6A6,vertical traffic light
-U0001F6AE,put litter in its place symbol
-U0001F6AF,do not litter symbol
-U0001F6B0,potable water symbol
-U0001F6B1,non-potable water symbol
-U0001F6B3,no bicycles
-U0001F6B4,bicyclist
-U0001F6B5,mountain bicyclist
-U0001F6B7,no pedestrians
-U0001F6B8,children crossing
-U0001F6BF,shower
-U0001F6C1,bathtub
-U0001F6C2,passport control
-U0001F6C3,customs
-U0001F6C4,baggage claim
-U0001F6C5,left luggage
-U0001F30D,earth globe europe-africa
-U0001F30E,earth globe americas
-U0001F310,globe with meridians
-U0001F312,waxing crescent moon symbol
-U0001F316,waning gibbous moon symbol
-U0001F317,last quarter moon symbol
-U0001F318,waning crescent moon symbol
-U0001F31A,new moon with face
-U0001F31C,last quarter moon with face
-U0001F31D,full moon with face
-U0001F31E,sun with face
-U0001F332,evergreen tree
-U0001F333,deciduous tree
-U0001F34B,lemon
-U0001F350,pear
-U0001F37C,baby bottle
-U0001F3C7,horse racing
-U0001F3C9,rugby football
-U0001F3E4,european post office
-U0001F400,rat
-U0001F401,mouse
-U0001F402,ox
-U0001F403,water buffalo
-U0001F404,cow
+U0001F49B,heart yellow
+U0001F49C,heart purple
+U0001F5A4,black evil heart wicked
+U0001F49D,heart ribbon valentine
+U0001F49E,heart revolving
+U0001F49F,heart
+U00002763,exclamation heart mark punctuation
+U0001F48C,heart letter love mail romance
+U0001F4A4,comic sleep zzz
+U0001F4A2,angry comic mad
+U0001F4A3,bomb comic
+U0001F4A5,boom collision comic
+U0001F4A6,comic splashing sweat
+U0001F4A8,comic dash running
+U0001F4AB,comic dizzy star
+U0001F4AC,balloon bubble comic dialog speech
+U0001F5E8,dialog speech
+U0001F5EF,angry balloon bubble mad
+U0001F4AD,balloon bubble comic thought
+U0001F573,hole
+U0001F453,clothing eye eyeglasses eyewear glasses
+U0001F576,dark eye eyewear glasses sunglasses
+U0001F454,clothing necktie
+U0001F455,clothing shirt tshirt
+U0001F456,clothing jeans pants trousers
+U0001F457,clothing dress
+U0001F458,clothing kimono
+U0001F459,bikini clothing swim
+U0001F45A,clothing woman
+U0001F45B,clothing coin purse
+U0001F45C,bag clothing handbag
+U0001F45D,bag clothing pouch
+U0001F6CD,bag hotel shopping
+U0001F392,activity bag satchel school
+U0001F45E,clothing man shoe
+U0001F45F,athletic clothing shoe sneaker
+U0001F460,clothing heel shoe woman
+U0001F461,clothing sandal shoe woman
+U0001F462,boot clothing shoe woman
+U0001F451,clothing crown king queen
+U0001F452,clothing hat woman
+U0001F3A9,activity clothing entertainment hat top tophat
+U0001F393,activity cap celebration clothing graduation hat
+U000026D1,aid cross face hat helmet
+U0001F4FF,beads clothing necklace prayer religion
+U0001F484,cosmetics lipstick makeup
+U0001F48D,diamond ring romance
+U0001F48E,diamond gem jewel romance
+U0001F435,face monkey
+U0001F412,monkey
+U0001F98D,gorilla
+U0001F436,dog face pet
+U0001F415,dog pet
+U0001F429,dog poodle
+U0001F43A,face wolf
+U0001F98A,face fox
+U0001F431,cat face pet
+U0001F408,cat pet
+U0001F981,face leo lion zodiac
+U0001F42F,face tiger
 U0001F405,tiger
 U0001F406,leopard
-U0001F407,rabbit
-U0001F408,cat
-U0001F409,dragon
-U0001F40A,crocodile
-U0001F40B,whale
-U0001F40F,ram
-U0001F410,goat
+U0001F434,face horse
+U0001F40E,horse racehorse racing
+U0001F98C,deer
+U0001F984,face unicorn
+U0001F42E,cow face
+U0001F402,bull ox taurus zodiac
+U0001F403,buffalo water
+U0001F404,cow
+U0001F437,face pig
+U0001F416,pig sow
+U0001F417,boar pig
+U0001F43D,face nose pig
+U0001F40F,aries ram sheep zodiac
+U0001F411,ewe sheep
+U0001F410,capricorn goat zodiac
+U0001F42A,camel dromedary hump
+U0001F42B,bactrian camel hump
+U0001F418,elephant
+U0001F98F,rhinoceros
+U0001F42D,face mouse
+U0001F401,mouse
+U0001F400,rat
+U0001F439,face hamster pet
+U0001F430,bunny face pet rabbit
+U0001F407,bunny pet rabbit
+U0001F43F,chipmunk
+U0001F987,bat vampire
+U0001F43B,bear face
+U0001F428,bear koala
+U0001F43C,face panda
+U0001F43E,feet paw print
+U0001F983,turkey
+U0001F414,chicken
 U0001F413,rooster
-U0001F415,dog
-U0001F416,pig
-U0001F42A,dromedary camel
-U0001F465,busts in silhouette
-U0001F46C,two men holding hands
-U0001F46D,two women holding hands
-U0001F4AD,thought balloon
-U0001F4B6,banknote with euro sign
-U0001F4B7,banknote with pound sign
-U0001F4EC,open mailbox with raised flag
-U0001F4ED,open mailbox with lowered flag
-U0001F4EF,postal horn
-U0001F4F5,no mobile phones
-U0001F500,twisted rightwards arrows
-U0001F501,clockwise rightwards and leftwards open circle arrows
-U0001F502,clockwise rightwards and leftwards open circle arrows with circled one overlay
-U0001F504,anticlockwise downwards and upwards open circle arrows
-U0001F505,low brightness symbol
-U0001F506,high brightness symbol
-U0001F507,speaker with cancellation stroke
-U0001F509,speaker with one sound wave
-U0001F515,bell with cancellation stroke
-U0001F52C,microscope
-U0001F52D,telescope
-U0001F55C,clock face one-thirty
-U0001F55D,clock face two-thirty
-U0001F55E,clock face three-thirty
-U0001F55F,clock face four-thirty
-U0001F560,clock face five-thirty
-U0001F561,clock face six-thirty
-U0001F562,clock face seven-thirty
-U0001F563,clock face eight-thirty
-U0001F564,clock face nine-thirty
-U0001F565,clock face ten-thirty
-U0001F566,clock face eleven-thirty
-U0001F567,clock face twelve-thirty
+U0001F423,baby chick hatching
+U0001F424,baby chick
+U0001F425,baby chick
+U0001F426,bird
+U0001F427,penguin
+U0001F54A,bird dove fly peace
+U0001F985,bird eagle
+U0001F986,bird duck
+U0001F989,bird owl wise
+U0001F438,face frog
+U0001F40A,crocodile
+U0001F422,turtle
+U0001F98E,lizard reptile
+U0001F40D,bearer ophiuchus serpent snake zodiac
+U0001F432,dragon face fairy tale
+U0001F409,dragon fairy tale
+U0001F433,face spouting whale
+U0001F40B,whale
+U0001F42C,dolphin flipper
+U0001F41F,fish pisces zodiac
+U0001F420,fish tropical
+U0001F421,blowfish fish
+U0001F988,fish shark
+U0001F419,octopus
+U0001F41A,shell spiral
+U0001F980,cancer crab zodiac
+U0001F990,shellfish shrimp small
+U0001F991,molusc squid
+U0001F98B,butterfly insect pretty
+U0001F40C,snail
+U0001F41B,bug insect
+U0001F41C,ant insect
+U0001F41D,bee honeybee insect
+U0001F41E,beetle insect lady beetle ladybird ladybug
+U0001F577,insect spider
+U0001F578,spider web
+U0001F982,scorpio scorpion scorpius zodiac
+U0001F490,bouquet flower plant romance
+U0001F338,blossom cherry flower plant
+U0001F4AE,flower
+U0001F3F5,plant rosette
+U0001F339,flower plant rose
+U0001F940,flower wilted
+U0001F33A,flower hibiscus plant
+U0001F33B,flower plant sun sunflower
+U0001F33C,blossom flower plant
+U0001F337,flower plant tulip
+U0001F331,plant seedling young
+U0001F332,evergreen plant tree
+U0001F333,deciduous plant shedding tree
+U0001F334,palm plant tree
+U0001F335,cactus plant
+U0001F33E,ear plant rice
+U0001F33F,herb leaf plant
+U00002618,plant shamrock
+U0001F340,4 clover four leaf plant
+U0001F341,falling leaf maple plant
+U0001F342,falling leaf plant
+U0001F343,blow flutter leaf plant wind
+U0001F347,fruit grape plant
+U0001F348,fruit melon plant
+U0001F349,fruit plant watermelon
+U0001F34A,fruit orange plant tangerine
+U0001F34B,citrus fruit lemon plant
+U0001F34C,banana fruit plant
+U0001F34D,fruit pineapple plant
+U0001F34E,apple fruit plant red
+U0001F34F,apple fruit green plant
+U0001F350,fruit pear plant
+U0001F351,fruit peach plant
+U0001F352,cherry fruit plant
+U0001F353,berry fruit plant strawberry
+U0001F345,plant tomato vegetable
+U0001F95D,fruit kiwi
+U0001F951,avocado fruit
+U0001F346,aubergine eggplant plant vegetable
+U0001F954,potato vegetable
+U0001F955,carrot vegetable
+U0001F33D,corn ear maize maze plant
+U0001F336,hot pepper plant
+U0001F952,cucumber pickle vegetable
+U0001F344,mushroom plant
+U0001F95C,nut peanut vegetable
+U0001F330,chestnut plant
+U0001F35E,bread loaf
+U0001F950,bread crescent roll croissant french
+U0001F956,baguette bread french
+U0001F95E,crepe hotcake pancake
+U0001F9C0,cheese
+U0001F356,bone meat
+U0001F357,bone chicken leg poultry
+U0001F953,bacon meat
+U0001F354,burger hamburger
+U0001F35F,french fries
+U0001F355,cheese pizza slice
+U0001F32D,frankfurter hot dog hotdog sausage
+U0001F32E,mexican taco
+U0001F32F,burrito mexican
+U0001F959,falafel flatbread gyro kebab stuffed
+U0001F95A,egg
+U0001F373,cooking egg frying pan
+U0001F958,casserole paella pan shallow
+U0001F372,pot stew
+U0001F957,green salad
+U0001F37F,popcorn
+U0001F371,bento box
+U0001F358,cracker rice
+U0001F359,ball japanese rice
+U0001F35A,cooked rice
+U0001F35B,curry rice
+U0001F35C,bowl noodle ramen steaming
+U0001F35D,pasta spaghetti
+U0001F360,potato roasted sweet
+U0001F362,kebab oden seafood skewer stick
+U0001F363,sushi
+U0001F364,fried prawn shrimp tempura
+U0001F365,cake fish pastry swirl
+U0001F361,dango dessert japanese skewer stick sweet
+U0001F366,cream dessert ice icecream soft sweet
+U0001F367,dessert ice shaved sweet
+U0001F368,cream dessert ice sweet
+U0001F369,dessert donut doughnut sweet
+U0001F36A,cookie dessert sweet
+U0001F382,birthday cake celebration dessert pastry sweet
+U0001F370,cake dessert pastry shortcake slice sweet
+U0001F36B,bar chocolate dessert sweet
+U0001F36C,candy dessert sweet
+U0001F36D,candy dessert lollipop sweet
+U0001F36E,custard dessert pudding sweet
+U0001F36F,honey honeypot pot sweet
+U0001F37C,baby bottle drink milk
+U0001F95B,drink glass milk
+U00002615,beverage coffee drink hot steaming tea
+U0001F375,beverage cup drink tea teacup
+U0001F376,bar beverage bottle cup drink sake
+U0001F37E,bar bottle cork drink popping
+U0001F377,bar beverage drink glass wine
+U0001F378,bar cocktail drink glass
+U0001F379,bar drink tropical
+U0001F37A,bar beer drink mug
+U0001F37B,bar beer clink drink mug
+U0001F942,celebrate clink drink glass
+U0001F943,glass liquor shot tumbler whisky
+U0001F37D,cooking fork knife plate
+U0001F374,cooking fork knife
+U0001F944,spoon tableware
+U0001F52A,cooking hocho knife tool weapon
+U0001F3FA,amphora aquarius cooking drink jug tool weapon zodiac
+U0001F30D,africa earth europe globe world
+U0001F30E,americas earth globe world
+U0001F30F,asia australia earth globe world
+U0001F310,earth globe meridians world
+U0001F5FA,map world
+U0001F5FE,japan map
+U0001F3D4,cold mountain snow
+U000026F0,mountain
+U0001F30B,eruption mountain volcano weather
+U0001F5FB,fuji mountain
+U0001F3D5,camping
+U0001F3D6,beach umbrella
+U0001F3DC,desert
+U0001F3DD,desert island
+U0001F3DE,national park park
+U0001F3DF,stadium
+U0001F3DB,building classical
+U0001F3D7,building construction
+U0001F3D8,building house
+U0001F3D9,building city
+U0001F3DA,building derelict house
+U0001F3E0,building home house
+U0001F3E1,building garden home house
+U0001F3E2,building
+U0001F3E3,building japanese post
+U0001F3E4,building european post
+U0001F3E5,building doctor hospital medicine
+U0001F3E6,bank building
+U0001F3E8,building hotel
+U0001F3E9,building hotel love
+U0001F3EA,building convenience store
+U0001F3EB,building school
+U0001F3EC,building department store
+U0001F3ED,building factory
+U0001F3EF,building castle japanese
+U0001F3F0,building castle european
+U0001F492,activity chapel romance wedding
+U0001F5FC,tokyo tower
+U0001F5FD,liberty statue
+U000026EA,building christian church cross religion
+U0001F54C,islam mosque muslim religion
+U0001F54D,jew jewish religion synagogue temple
+U000026E9,religion shinto shrine
+U0001F54B,islam kaaba muslim religion
+U000026F2,fountain
+U000026FA,camping tent
+U0001F301,fog weather
+U0001F303,night star weather
+U0001F304,morning mountain sun sunrise weather
+U0001F305,morning sun sunrise weather
+U0001F306,building city dusk evening landscape sun sunset weather
+U0001F307,building dusk sun sunset weather
+U0001F309,bridge night weather
+U00002668,hot hotsprings springs steaming
+U0001F30C,milky way space weather
+U0001F3A0,activity carousel entertainment horse
+U0001F3A1,activity amusement park entertainment ferris wheel
+U0001F3A2,activity amusement park coaster entertainment roller
+U0001F488,barber haircut pole
+U0001F3AA,activity circus entertainment tent
+U0001F3AD,activity art entertainment mask performing theater theatre
+U0001F5BC,art frame museum painting picture
+U0001F3A8,activity art entertainment museum painting palette
+U0001F3B0,activity game slot
+U0001F682,engine locomotive railway steam train vehicle
+U0001F683,car electric railway train tram trolleybus vehicle
+U0001F684,railway shinkansen speed train vehicle
+U0001F685,bullet railway shinkansen speed train vehicle
+U0001F686,railway train vehicle
+U0001F687,metro subway vehicle
+U0001F688,railway vehicle
+U0001F689,railway station train vehicle
+U0001F68A,tram trolleybus vehicle
+U0001F69D,monorail vehicle
+U0001F69E,car mountain railway vehicle
+U0001F68B,car tram trolleybus vehicle
+U0001F68C,bus vehicle
+U0001F68D,bus oncoming vehicle
+U0001F68E,bus tram trolley trolleybus vehicle
+U0001F68F,bus busstop stop
+U0001F690,bus minibus vehicle
+U0001F691,ambulance vehicle
+U0001F692,engine fire truck vehicle
+U0001F693,car patrol police vehicle
+U0001F694,car oncoming police vehicle
+U0001F695,taxi vehicle
+U0001F696,oncoming taxi vehicle
+U0001F697,automobile car vehicle
+U0001F698,automobile car oncoming vehicle
+U0001F699,recreational rv vehicle
+U0001F69A,delivery truck vehicle
+U0001F69B,lorry semi truck vehicle
+U0001F69C,tractor vehicle
+U0001F6B2,bicycle bike vehicle
+U000026FD,fuel fuelpump gas pump station
+U0001F6E3,highway motorway road
+U0001F6E4,railway train
+U0001F6A8,beacon car light police revolving vehicle
+U0001F6A5,light signal traffic
+U0001F6A6,light signal traffic
+U0001F6A7,barrier construction
+U0001F6D1,octagonal stop
+U0001F6F4,kick scooter
+U0001F6F5,motor scooter
+U00002693,anchor ship tool
+U000026F5,boat resort sailboat sea vehicle yacht
+U0001F6A3,boat rowboat vehicle
+U1F6A3 U1F3FB,boat rowboat vehicle
+U1F6A3 U1F3FC,boat rowboat vehicle
+U1F6A3 U1F3FD,boat rowboat vehicle
+U1F6A3 U1F3FE,boat rowboat vehicle
+U1F6A3 U1F3FF,boat rowboat vehicle
+U0001F6F6,boat canoe
+U0001F6A4,boat speedboat vehicle
+U0001F6F3,passenger ship vehicle
+U000026F4,boat ferry
+U0001F6E5,boat motorboat vehicle
+U0001F6A2,ship vehicle
+U00002708,airplane vehicle
+U0001F6E9,airplane vehicle
+U0001F6EB,airplane check-in departure departures vehicle
+U0001F6EC,airplane arrivals arriving landing vehicle
+U0001F4BA,chair seat
+U0001F681,helicopter vehicle
+U0001F69F,railway suspension vehicle
+U0001F6A0,cable gondola mountain vehicle
+U0001F6A1,aerial cable car gondola ropeway tramway vehicle
+U0001F680,rocket space vehicle
+U0001F6F0,satellite space vehicle
+U0001F6CE,bell bellhop hotel
+U0001F6AA,door
+U0001F6CC,hotel sleep
+U0001F6CF,bed hotel sleep
+U0001F6CB,couch hotel lamp
+U0001F6BD,toilet
+U0001F6BF,shower water
+U0001F6C0,bath bathtub
+U1F6C0 U1F3FB,bath bathtub
+U1F6C0 U1F3FC,bath bathtub
+U1F6C0 U1F3FD,bath bathtub
+U1F6C0 U1F3FE,bath bathtub
+U1F6C0 U1F3FF,bath bathtub
+U0001F6C1,bath bathtub
+U0000231B,hourglass sand timer
+U000023F3,hourglass sand timer
+U0000231A,clock watch
+U000023F0,alarm clock
+U000023F1,clock stopwatch
+U000023F2,clock timer
+U0001F570,clock
+U0001F55B,00 12 12:00 clock o’clock twelve
+U0001F567,12 12:30 30 clock thirty twelve
+U0001F550,00 1 1:00 clock o’clock one
+U0001F55C,1 1:30 30 clock one thirty
+U0001F551,00 2 2:00 clock o’clock two
+U0001F55D,2 2:30 30 clock thirty two
+U0001F552,00 3 3:00 clock o’clock three
+U0001F55E,3 3:30 30 clock thirty three
+U0001F553,00 4 4:00 clock four o’clock
+U0001F55F,30 4 4:30 clock four thirty
+U0001F554,00 5 5:00 clock five o’clock
+U0001F560,30 5 5:30 clock five thirty
+U0001F555,00 6 6:00 clock o’clock six
+U0001F561,30 6 6:30 clock six thirty
+U0001F556,00 7 7:00 clock o’clock seven
+U0001F562,30 7 7:30 clock seven thirty
+U0001F557,00 8 8:00 clock eight o’clock
+U0001F563,30 8 8:30 clock eight thirty
+U0001F558,00 9 9:00 clock nine o’clock
+U0001F564,30 9 9:30 clock nine thirty
+U0001F559,00 10 10:00 clock o’clock ten
+U0001F565,10 10:30 30 clock ten thirty
+U0001F55A,00 11 11:00 clock eleven o’clock
+U0001F566,11 11:30 30 clock eleven thirty
+U0001F311,dark moon space weather
+U0001F312,crescent moon space waxing weather
+U0001F313,moon quarter space weather
+U0001F314,gibbous moon space waxing weather
+U0001F315,full moon space weather
+U0001F316,gibbous moon space waning weather
+U0001F317,moon quarter space weather
+U0001F318,crescent moon space waning weather
+U0001F319,crescent moon space weather
+U0001F31A,face moon space weather
+U0001F31B,face moon quarter space weather
+U0001F31C,face moon quarter space weather
+U0001F321,thermometer weather
+U00002600,bright rays space sun sunny weather
+U0001F31D,bright face full moon space weather
+U0001F31E,bright face space sun weather
+U00002B50,star
+U0001F31F,glittery glow shining sparkle star
+U0001F320,activity falling shooting space star
+U00002601,cloud weather
+U000026C5,cloud sun weather
+U000026C8,cloud rain thunder weather
+U0001F324,cloud sun weather
+U0001F325,cloud sun weather
+U0001F326,cloud rain sun weather
+U0001F327,cloud rain weather
+U0001F328,cloud cold snow weather
+U0001F329,cloud lightning weather
+U0001F32A,cloud tornado weather whirlwind
+U0001F32B,cloud fog weather
+U0001F32C,blow cloud face weather wind
+U0001F300,cyclone dizzy twister typhoon weather
+U0001F308,rain rainbow weather
+U0001F302,clothing rain umbrella weather
+U00002602,clothing rain umbrella weather
+U00002614,clothing drop rain umbrella weather
+U000026F1,rain sun umbrella weather
+U000026A1,danger electric electricity lightning voltage zap
+U00002744,cold snow snowflake weather
+U00002603,cold snow snowman weather
+U000026C4,cold snow snowman weather
+U00002604,comet space
+U0001F525,fire flame tool
+U0001F4A7,cold comic drop sweat weather
+U0001F30A,ocean water wave weather
+U0001F383,activity celebration entertainment halloween jack lantern
+U0001F384,activity celebration christmas entertainment tree
+U0001F386,activity celebration entertainment fireworks
+U0001F387,activity celebration entertainment fireworks sparkle
+U00002728,entertainment sparkle star
+U0001F388,activity balloon celebration entertainment
+U0001F389,activity celebration entertainment party popper tada
+U0001F38A,activity ball celebration confetti entertainment
+U0001F38B,activity banner celebration entertainment japanese tree
+U0001F38D,activity bamboo celebration japanese pine plant
+U0001F38E,activity celebration doll entertainment festival japanese
+U0001F38F,activity carp celebration entertainment flag streamer
+U0001F390,activity bell celebration chime entertainment wind
+U0001F391,activity celebration ceremony entertainment moon
+U0001F380,celebration ribbon
+U0001F381,box celebration entertainment gift present wrapped
+U0001F397,celebration reminder ribbon
+U0001F39F,admission entertainment ticket
+U0001F3AB,activity admission entertainment ticket
+U0001F396,celebration medal military
+U0001F3C6,prize trophy
+U0001F3C5,medal
+U0001F947,first gold medal
+U0001F948,medal second silver
+U0001F949,bronze medal third
+U000026BD,ball soccer
+U000026BE,ball baseball
+U0001F3C0,ball basketball hoop
+U0001F3D0,ball game volleyball
+U0001F3C8,american ball football
+U0001F3C9,ball football rugby
+U0001F3BE,ball racquet tennis
+U0001F3B1,8 8 ball ball billiard eight game
+U0001F3B3,ball bowling game
+U0001F3CF,ball bat cricket game
+U0001F3D1,ball field game hockey stick
+U0001F3D2,game hockey ice puck stick
+U0001F3D3,ball bat game paddle table tennis
+U0001F3F8,badminton birdie game racquet shuttlecock
+U0001F94A,boxing glove
+U0001F94B,judo karate martial arts taekwondo uniform
+U000026F3,flag golf hole
+U0001F3CC,ball golf
+U000026F8,ice skate
+U0001F3A3,entertainment fish pole
+U0001F3BD,running sash shirt
+U0001F3BF,ski snow
+U000026F7,ski snow
+U0001F3C2,ski snow snowboard
+U0001F3C4,surfer surfing
+U1F3C4 U1F3FB,surfer surfing
+U1F3C4 U1F3FC,surfer surfing
+U1F3C4 U1F3FD,surfer surfing
+U1F3C4 U1F3FE,surfer surfing
+U1F3C4 U1F3FF,surfer surfing
+U0001F3C7,horse jockey racehorse racing
+U0001F3CA,swim swimmer
+U1F3CA U1F3FB,swim swimmer
+U1F3CA U1F3FC,swim swimmer
+U1F3CA U1F3FD,swim swimmer
+U1F3CA U1F3FE,swim swimmer
+U1F3CA U1F3FF,swim swimmer
+U000026F9,ball
+U26F9 U1F3FB,ball
+U26F9 U1F3FC,ball
+U26F9 U1F3FD,ball
+U26F9 U1F3FE,ball
+U26F9 U1F3FF,ball
+U0001F3CB,lifter weight
+U1F3CB U1F3FB,lifter weight
+U1F3CB U1F3FC,lifter weight
+U1F3CB U1F3FD,lifter weight
+U1F3CB U1F3FE,lifter weight
+U1F3CB U1F3FF,lifter weight
+U0001F6B4,bicycle bicyclist bike cyclist
+U1F6B4 U1F3FB,bicycle bicyclist bike cyclist
+U1F6B4 U1F3FC,bicycle bicyclist bike cyclist
+U1F6B4 U1F3FD,bicycle bicyclist bike cyclist
+U1F6B4 U1F3FE,bicycle bicyclist bike cyclist
+U1F6B4 U1F3FF,bicycle bicyclist bike cyclist
+U0001F6B5,bicycle bicyclist bike cyclist mountain
+U1F6B5 U1F3FB,bicycle bicyclist bike cyclist mountain
+U1F6B5 U1F3FC,bicycle bicyclist bike cyclist mountain
+U1F6B5 U1F3FD,bicycle bicyclist bike cyclist mountain
+U1F6B5 U1F3FE,bicycle bicyclist bike cyclist mountain
+U1F6B5 U1F3FF,bicycle bicyclist bike cyclist mountain
+U0001F3CE,car racing
+U0001F3CD,motorcycle racing
+U0001F938,cartwheel gymnastics
+U1F938 U1F3FB,cartwheel gymnastics
+U1F938 U1F3FC,cartwheel gymnastics
+U1F938 U1F3FD,cartwheel gymnastics
+U1F938 U1F3FE,cartwheel gymnastics
+U1F938 U1F3FF,cartwheel gymnastics
+U0001F93C,wrestle wrestler
+U1F93C U1F3FB,wrestle wrestler
+U1F93C U1F3FC,wrestle wrestler
+U1F93C U1F3FD,wrestle wrestler
+U1F93C U1F3FE,wrestle wrestler
+U1F93C U1F3FF,wrestle wrestler
+U0001F93D,polo water
+U1F93D U1F3FB,polo water
+U1F93D U1F3FC,polo water
+U1F93D U1F3FD,polo water
+U1F93D U1F3FE,polo water
+U1F93D U1F3FF,polo water
+U0001F93E,ball handball
+U1F93E U1F3FB,ball handball
+U1F93E U1F3FC,ball handball
+U1F93E U1F3FD,ball handball
+U1F93E U1F3FE,ball handball
+U1F93E U1F3FF,ball handball
+U0001F93A,fencer fencing sword
+U0001F945,goal net
+U0001F939,balance juggle multitask skill
+U1F939 U1F3FB,balance juggle multitask skill
+U1F939 U1F3FC,balance juggle multitask skill
+U1F939 U1F3FD,balance juggle multitask skill
+U1F939 U1F3FE,balance juggle multitask skill
+U1F939 U1F3FF,balance juggle multitask skill
+U0001F3AF,activity bull bullseye dart entertainment eye game hit target
+U0001F3AE,controller entertainment game video game
+U0001F579,entertainment game joystick video game
+U0001F3B2,dice die entertainment game
+U00002660,card game spade suit
+U00002665,card game heart hearts suit
+U00002666,card diamond diamonds game suit
+U00002663,card club clubs game suit
+U0001F0CF,card entertainment game joker playing
+U0001F004,game mahjong red
+U0001F3B4,activity card entertainment flower game japanese playing
+U0001F507,mute quiet silent speaker volume
+U0001F508,speaker volume
+U0001F509,low speaker volume wave
+U0001F50A,3 entertainment high loud speaker three volume
+U0001F4E2,communication loud loudspeaker public address
+U0001F4E3,cheering communication megaphone
+U0001F4EF,communication entertainment horn post postal
+U0001F514,bell
+U0001F515,bell forbidden mute no not prohibited quiet silent
+U0001F3BC,activity entertainment music score
+U0001F3B5,activity entertainment music note
+U0001F3B6,activity entertainment music note notes
+U0001F399,mic microphone music studio
+U0001F39A,level music slider
+U0001F39B,control knobs music
+U0001F3A4,activity entertainment karaoke mic microphone
+U0001F3A7,activity earbud entertainment headphone
+U0001F4FB,entertainment radio video
+U0001F3B7,activity entertainment instrument music sax saxophone
+U0001F3B8,activity entertainment guitar instrument music
+U0001F3B9,activity entertainment instrument keyboard music piano
+U0001F3BA,activity entertainment instrument music trumpet
+U0001F3BB,activity entertainment instrument music violin
+U0001F941,drum drumsticks music
+U0001F4F1,cell communication mobile phone telephone
+U0001F4F2,arrow call cell communication mobile phone receive telephone
+U0000260E,phone telephone
+U0001F4DE,communication phone receiver telephone
+U0001F4DF,communication pager
+U0001F4E0,communication fax
+U0001F50B,battery
+U0001F50C,electric electricity plug
+U0001F4BB,computer pc personal
+U0001F5A5,computer desktop
+U0001F5A8,computer printer
+U00002328,computer keyboard
+U0001F5B1,3 button computer mouse three
+U0001F5B2,computer trackball
+U0001F4BD,computer disk entertainment minidisk optical
+U0001F4BE,computer disk floppy
+U0001F4BF,blu-ray cd computer disk dvd optical
+U0001F4C0,blu-ray cd computer disk dvd entertainment optical
+U0001F3A5,activity camera cinema entertainment movie
+U0001F39E,cinema entertainment film frames movie
+U0001F4FD,cinema entertainment film movie projector video
+U0001F3AC,activity clapper entertainment movie
+U0001F4FA,entertainment television tv video
+U0001F4F7,camera entertainment video
+U0001F4F8,camera flash video
+U0001F4F9,camera entertainment video
+U0001F4FC,entertainment tape vhs video videocassette
+U0001F50D,glass magnifying search tool
+U0001F50E,glass magnifying search tool
+U0001F52C,microscope tool
+U0001F52D,telescope tool
+U0001F4E1,antenna communication dish satellite
+U0001F56F,candle light
+U0001F4A1,bulb comic electric idea light
+U0001F526,electric flashlight light tool torch
+U0001F3EE,bar japanese lantern light red
+U0001F4D4,book cover decorated notebook
+U0001F4D5,book closed
+U0001F4D6,book open
+U0001F4D7,book green
+U0001F4D8,blue book
+U0001F4D9,book orange
+U0001F4DA,book books
+U0001F4D3,notebook
+U0001F4D2,ledger notebook
+U0001F4C3,curl document page
+U0001F4DC,paper scroll
+U0001F4C4,document page
+U0001F4F0,communication news newspaper paper
+U0001F5DE,news newspaper paper rolled
+U0001F4D1,bookmark mark marker tabs
+U0001F516,bookmark mark
+U0001F3F7,label
+U0001F4B0,bag dollar money moneybag
+U0001F4B4,bank banknote bill currency money note yen
+U0001F4B5,bank banknote bill currency dollar money note
+U0001F4B6,bank banknote bill currency euro money note
+U0001F4B7,bank banknote bill currency money note pound
+U0001F4B8,bank banknote bill dollar fly money note wings
+U0001F4B3,bank card credit money
+U0001F4B9,bank chart currency graph growth market money rise trend upward yen
+U0001F4B1,bank currency exchange money
+U0001F4B2,currency dollar money
+U00002709,e-mail email envelope
+U0001F4E7,communication e-mail email letter mail
+U0001F4E8,communication e-mail email envelope incoming letter mail receive
+U0001F4E9,arrow communication down e-mail email envelope letter mail outgoing sent
+U0001F4E4,box communication letter mail outbox sent tray
+U0001F4E5,box communication inbox letter mail receive tray
+U0001F4E6,box communication package parcel
+U0001F4EB,closed communication flag mail mailbox postbox
+U0001F4EA,closed communication flag lowered mail mailbox postbox
+U0001F4EC,communication flag mail mailbox open postbox
+U0001F4ED,communication flag lowered mail mailbox open postbox
+U0001F4EE,communication mail mailbox postbox
+U0001F5F3,ballot box
+U0000270F,pencil
+U00002712,nib pen
+U0001F58B,communication fountain pen
+U0001F58A,ballpoint communication pen
+U0001F58C,communication paintbrush painting
+U0001F58D,communication crayon
+U0001F4DD,communication memo pencil
+U0001F4BC,briefcase
+U0001F4C1,file folder
+U0001F4C2,file folder open
+U0001F5C2,card dividers index
+U0001F4C5,calendar date
+U0001F4C6,calendar
+U0001F5D2,note pad spiral
+U0001F5D3,calendar pad spiral
+U0001F4C7,card index rolodex
+U0001F4C8,chart graph growth trend upward
+U0001F4C9,chart down graph trend
+U0001F4CA,bar chart graph
+U0001F4CB,clipboard
+U0001F4CC,pin pushpin
+U0001F4CD,pin pushpin
+U0001F4CE,paperclip
+U0001F587,communication link paperclip
+U0001F4CF,ruler straight edge
+U0001F4D0,ruler set triangle
+U00002702,scissors tool
+U0001F5C3,box card file
+U0001F5C4,cabinet file
+U0001F5D1,wastebasket
+U0001F512,closed lock
+U0001F513,lock open unlock
+U0001F50F,ink lock nib pen privacy
+U0001F510,closed key lock secure
+U0001F511,key lock password
+U0001F5DD,clue key lock old
+U0001F528,hammer tool
+U000026CF,mining pick tool
+U00002692,hammer pick tool
+U0001F6E0,hammer tool wrench
+U0001F5E1,dagger knife weapon
+U00002694,crossed swords weapon
+U0001F52B,gun handgun pistol revolver tool weapon
+U0001F3F9,archer arrow bow sagittarius tool weapon zodiac
+U0001F6E1,shield weapon
+U0001F527,tool wrench
+U0001F529,bolt nut tool
+U00002699,gear tool
+U0001F5DC,compression tool vice
+U00002697,alembic chemistry tool
+U00002696,balance justice libra scales tool weight zodiac
+U0001F517,link
+U000026D3,chain
+U0001F489,doctor medicine needle shot sick syringe tool
+U0001F48A,doctor medicine pill sick
+U0001F6AC,activity smoking
+U000026B0,coffin death
+U000026B1,death funeral urn
+U0001F5FF,face moyai statue
+U0001F6E2,drum oil
+U0001F52E,ball crystal fairy tale fantasy fortune tool
+U0001F6D2,cart shopping trolley
+U0001F3E7,atm automated bank teller
+U0001F6AE,litter litterbox
+U0001F6B0,drink potable water
+U0000267F,access wheelchair
+U0001F6B9,lavatory man restroom wc
+U0001F6BA,lavatory restroom wc woman
+U0001F6BB,lavatory restroom wc
+U0001F6BC,baby changing
+U0001F6BE,closet lavatory restroom water wc
+U0001F6C2,control passport
+U0001F6C3,customs
+U0001F6C4,baggage claim
+U0001F6C5,baggage left luggage locker luggage
+U000026A0,warning
+U0001F6B8,child crossing pedestrian traffic
+U000026D4,entry forbidden no not prohibited traffic
+U0001F6AB,entry forbidden no not prohibited
+U0001F6B3,bicycle bike forbidden no not prohibited vehicle
+U0001F6AD,forbidden no not prohibited smoking
+U0001F6AF,forbidden litter no not prohibited
+U0001F6B1,drink forbidden no not potable prohibited water
+U0001F6B7,forbidden no not pedestrian prohibited
+U0001F4F5,cell communication forbidden mobile no not phone prohibited telephone
+U0001F51E,18 age restriction eighteen forbidden no not prohibited underage
+U00002622,radioactive
+U00002623,biohazard
+U00002B06,arrow cardinal direction north
+U00002197,arrow direction intercardinal northeast
+U000027A1,arrow cardinal direction east
+U00002198,arrow direction intercardinal southeast
+U00002B07,arrow cardinal direction down south
+U00002199,arrow direction intercardinal southwest
+U00002B05,arrow cardinal direction west
+U00002196,arrow direction intercardinal northwest
+U00002195,arrow
+U00002194,arrow
+U000021A9,arrow
+U000021AA,arrow
+U00002934,arrow
+U00002935,arrow down
+U0001F503,arrow clockwise reload
+U0001F504,anticlockwise arrow counterclockwise withershins
+U0001F519,arrow back
+U0001F51A,arrow end
+U0001F51B,arrow mark on
+U0001F51C,arrow soon
+U0001F51D,arrow top up
+U0001F6D0,religion worship
+U0000269B,atheist atom
+U0001F549,hindu om religion
+U00002721,david jew jewish religion star
+U00002638,buddhist dharma religion wheel
+U0000262F,religion tao taoist yang yin
+U0000271D,christian cross religion
+U00002626,christian cross religion
+U0000262A,islam muslim religion
+U0000262E,peace
+U0001F54E,candelabrum candlestick menorah religion
+U0001F52F,fortune star
+U0000267B,recycle
+U0001F4DB,badge name
+U0000269C,fleur-de-lis
+U0001F530,beginner chevron green japanese leaf tool yellow
+U0001F531,anchor emblem ship tool trident
+U00002B55,circle o
+U00002705,check mark
+U00002611,ballot box check
+U00002714,check mark
+U00002716,cancel multiplication multiply x
+U0000274C,cancel mark multiplication multiply x
+U0000274E,mark square
+U00002795,math plus
+U00002796,math minus
+U00002797,division math
+U000027B0,curl loop
+U000027BF,curl double loop
+U0000303D,mark part
+U00002733,asterisk
+U00002734,star
+U00002747,sparkle
+U0000203C,bangbang exclamation mark punctuation
+U00002049,exclamation interrobang mark punctuation question
+U00002753,mark punctuation question
+U00002754,mark outlined punctuation question
+U00002755,exclamation mark outlined punctuation
+U00002757,exclamation mark punctuation
+U00003030,dash punctuation wavy
+U000000A9,copyright
+U000000AE,registered
+U00002122,mark tm trademark
+U00002648,aries ram zodiac
+U00002649,bull ox taurus zodiac
+U0000264A,gemini twins zodiac
+U0000264B,cancer crab zodiac
+U0000264C,leo lion zodiac
+U0000264D,maiden virgin virgo zodiac
+U0000264E,balance justice libra scales zodiac
+U0000264F,scorpio scorpion scorpius zodiac
+U00002650,archer sagittarius zodiac
+U00002651,capricorn goat zodiac
+U00002652,aquarius bearer water zodiac
+U00002653,fish pisces zodiac
+U000026CE,bearer ophiuchus serpent snake zodiac
+U0001F500,arrow crossed
+U0001F501,arrow clockwise repeat
+U0001F502,arrow clockwise once
+U000025B6,arrow play right triangle
+U000023E9,arrow double fast forward
+U000023ED,arrow next scene next track triangle
+U000023EF,arrow pause play right triangle
+U000025C0,arrow left reverse triangle
+U000023EA,arrow double rewind
+U000023EE,arrow previous scene previous track triangle
+U0001F53C,arrow button red
+U000023EB,arrow double
+U0001F53D,arrow button down red
+U000023EC,arrow double down
+U000023F8,bar double pause vertical
+U000023F9,square stop
+U000023FA,circle record
+U000023CF,eject
+U0001F3A6,activity camera cinema entertainment film movie
+U0001F505,brightness dim low
+U0001F506,bright brightness
+U0001F4F6,antenna bar cell communication mobile phone signal telephone
+U0001F4F3,cell communication mobile mode phone telephone vibration
+U0001F4F4,cell communication mobile off phone telephone
+U0023 UFE0F U20E3,hash keycap pound
+U002A UFE0F U20E3,asterisk keycap star
+U0030 UFE0F U20E3,0 keycap zero
+U0031 UFE0F U20E3,1 keycap one
+U0032 UFE0F U20E3,2 keycap two
+U0033 UFE0F U20E3,3 keycap three
+U0034 UFE0F U20E3,4 four keycap
+U0035 UFE0F U20E3,5 five keycap
+U0036 UFE0F U20E3,6 keycap six
+U0037 UFE0F U20E3,7 keycap seven
+U0038 UFE0F U20E3,8 eight keycap
+U0039 UFE0F U20E3,9 keycap nine
+U0001F51F,10 keycap ten
+U0001F4AF,100 full hundred score
+U0001F520,input latin letters uppercase
+U0001F521,abcd input latin letters lowercase
+U0001F522,1234 input numbers
+U0001F523,input
+U0001F524,abc alphabet input latin letters
+U0001F170,a blood
+U0001F18E,ab blood
+U0001F171,b blood
+U0001F191,cl
+U0001F192,cool
+U0001F193,free
+U00002139,i information
+U0001F194,id identity
+U000024C2,circle m
+U0001F195,new
+U0001F196,ng
+U0001F17E,blood o
+U0001F197,ok
+U0001F17F,parking
+U0001F198,help sos
+U0001F199,mark up
+U0001F19A,versus vs
+U0001F201,japanese
+U0001F202,japanese
+U0001F237,japanese
+U0001F236,japanese
+U0001F22F,japanese
+U0001F250,japanese
+U0001F239,japanese
+U0001F21A,japanese
+U0001F232,japanese
+U0001F251,chinese
+U0001F238,chinese
+U0001F234,chinese
+U0001F233,chinese
+U00003297,chinese congratulation congratulations ideograph
+U00003299,chinese ideograph secret
+U0001F23A,chinese
+U0001F235,chinese
+U000025AA,geometric square
+U000025AB,geometric square
+U000025FB,geometric square
+U000025FC,geometric square
+U000025FD,geometric square
+U000025FE,geometric square
+U00002B1B,geometric square
+U00002B1C,geometric square
+U0001F536,diamond geometric orange
+U0001F537,blue diamond geometric
+U0001F538,diamond geometric orange
+U0001F539,blue diamond geometric
+U0001F53A,geometric red
+U0001F53B,down geometric red
+U0001F4A0,comic diamond geometric inside
+U0001F518,button geometric radio
+U0001F532,button geometric square
+U0001F533,button geometric outlined square
+U000026AA,circle geometric
+U000026AB,circle geometric
+U0001F534,circle geometric red
+U0001F535,blue circle geometric
+U0001F3C1,checkered chequered flag racing
+U0001F6A9,flag post
+U0001F38C,activity celebration cross crossed flag japanese
+U0001F3F4,flag waving
+U0001F3F3,flag waving
+U1F1E6 U1F1E8,ascension flag island
+U1F1E6 U1F1E9,andorra flag
+U1F1E6 U1F1EA,emirates flag uae united
+U1F1E6 U1F1EB,afghanistan flag
+U1F1E6 U1F1EC,antigua barbuda flag
+U1F1E6 U1F1EE,anguilla flag
+U1F1E6 U1F1F1,albania flag
+U1F1E6 U1F1F2,armenia flag
+U1F1E6 U1F1F4,angola flag
+U1F1E6 U1F1F6,antarctica flag
+U1F1E6 U1F1F7,argentina flag
+U1F1E6 U1F1F8,american flag samoa
+U1F1E6 U1F1F9,austria flag
+U1F1E6 U1F1FA,australia flag
+U1F1E6 U1F1FC,aruba flag
+U1F1E6 U1F1FD,åland flag
+U1F1E6 U1F1FF,azerbaijan flag
+U1F1E7 U1F1E6,bosnia flag herzegovina
+U1F1E7 U1F1E7,barbados flag
+U1F1E7 U1F1E9,bangladesh flag
+U1F1E7 U1F1EA,belgium flag
+U1F1E7 U1F1EB,burkina faso flag
+U1F1E7 U1F1EC,bulgaria flag
+U1F1E7 U1F1ED,bahrain flag
+U1F1E7 U1F1EE,burundi flag
+U1F1E7 U1F1EF,benin flag
+U1F1E7 U1F1F1,barthelemy barthélemy flag saint
+U1F1E7 U1F1F2,bermuda flag
+U1F1E7 U1F1F3,brunei darussalam flag
+U1F1E7 U1F1F4,bolivia flag
+U1F1E7 U1F1F6,bonaire caribbean eustatius flag netherlands saba sint
+U1F1E7 U1F1F7,brazil flag
+U1F1E7 U1F1F8,bahamas flag
+U1F1E7 U1F1F9,bhutan flag
+U1F1E7 U1F1FB,bouvet flag island
+U1F1E7 U1F1FC,botswana flag
+U1F1E7 U1F1FE,belarus flag
+U1F1E7 U1F1FF,belize flag
+U1F1E8 U1F1E6,canada flag
+U1F1E8 U1F1E8,cocos flag island keeling
+U1F1E8 U1F1E9,congo congo-kinshasa democratic republic of congo drc flag kinshasa republic
+U1F1E8 U1F1EB,central african republic flag republic
+U1F1E8 U1F1EC,brazzaville congo congo republic congo-brazzaville flag republic republic of the congo
+U1F1E8 U1F1ED,flag switzerland
+U1F1E8 U1F1EE,cote ivoire côte ivoire flag ivory coast
+U1F1E8 U1F1F0,cook flag island
+U1F1E8 U1F1F1,chile flag
+U1F1E8 U1F1F2,cameroon flag
+U1F1E8 U1F1F3,china flag
+U1F1E8 U1F1F4,colombia flag
+U1F1E8 U1F1F5,clipperton flag island
+U1F1E8 U1F1F7,costa rica flag
+U1F1E8 U1F1FA,cuba flag
+U1F1E8 U1F1FB,cabo cape flag verde
+U1F1E8 U1F1FC,antilles curacao curaçao flag
+U1F1E8 U1F1FD,christmas flag island
+U1F1E8 U1F1FE,cyprus flag
+U1F1E8 U1F1FF,czech republic flag
+U1F1E9 U1F1EA,flag germany
+U1F1E9 U1F1EC,diego garcia flag
+U1F1E9 U1F1EF,djibouti flag
+U1F1E9 U1F1F0,denmark flag
+U1F1E9 U1F1F2,dominica flag
+U1F1E9 U1F1F4,dominican republic flag
+U1F1E9 U1F1FF,algeria flag
+U1F1EA U1F1E6,ceuta flag melilla
+U1F1EA U1F1E8,ecuador flag
+U1F1EA U1F1EA,estonia flag
+U1F1EA U1F1EC,egypt flag
+U1F1EA U1F1ED,flag sahara west western sahara
+U1F1EA U1F1F7,eritrea flag
+U1F1EA U1F1F8,flag spain
+U1F1EA U1F1F9,ethiopia flag
+U1F1EA U1F1FA,european union flag
+U1F1EB U1F1EE,finland flag
+U1F1EB U1F1EF,fiji flag
+U1F1EB U1F1F0,falkland falklands flag island islas malvinas
+U1F1EB U1F1F2,flag micronesia
+U1F1EB U1F1F4,faroe flag island
+U1F1EB U1F1F7,flag france
+U1F1EC U1F1E6,flag gabon
+U1F1EC U1F1E7,britain british cornwall england flag great britain ireland northern ireland scotland uk union jack united united kingdom wales
+U1F1EC U1F1E9,flag grenada
+U1F1EC U1F1EA,flag georgia
+U1F1EC U1F1EB,flag french guiana
+U1F1EC U1F1EC,flag guernsey
+U1F1EC U1F1ED,flag ghana
+U1F1EC U1F1EE,flag gibraltar
+U1F1EC U1F1F1,flag greenland
+U1F1EC U1F1F2,flag gambia
+U1F1EC U1F1F3,flag guinea
+U1F1EC U1F1F5,flag guadeloupe
+U1F1EC U1F1F6,equatorial guinea flag guinea
+U1F1EC U1F1F7,flag greece
+U1F1EC U1F1F8,flag georgia island south south georgia south sandwich
+U1F1EC U1F1F9,flag guatemala
+U1F1EC U1F1FA,flag guam
+U1F1EC U1F1FC,bissau flag guinea
+U1F1EC U1F1FE,flag guyana
+U1F1ED U1F1F0,china flag hong kong
+U1F1ED U1F1F2,flag heard island mcdonald
+U1F1ED U1F1F3,flag honduras
+U1F1ED U1F1F7,croatia flag
+U1F1ED U1F1F9,flag haiti
+U1F1ED U1F1FA,flag hungary
+U1F1EE U1F1E8,canary flag island
+U1F1EE U1F1E9,flag indonesia
+U1F1EE U1F1EA,flag ireland
+U1F1EE U1F1F1,flag israel
+U1F1EE U1F1F2,flag isle of man
+U1F1EE U1F1F3,flag india
+U1F1EE U1F1F4,british chagos flag indian ocean island
+U1F1EE U1F1F6,flag iraq
+U1F1EE U1F1F7,flag iran
+U1F1EE U1F1F8,flag iceland
+U1F1EE U1F1F9,flag italy
+U1F1EF U1F1EA,flag jersey
+U1F1EF U1F1F2,flag jamaica
+U1F1EF U1F1F4,flag jordan
+U1F1EF U1F1F5,flag japan
+U1F1F0 U1F1EA,flag kenya
+U1F1F0 U1F1EC,flag kyrgyzstan
+U1F1F0 U1F1ED,cambodia flag
+U1F1F0 U1F1EE,flag kiribati
+U1F1F0 U1F1F2,comoros flag
+U1F1F0 U1F1F3,flag kitts nevis saint
+U1F1F0 U1F1F5,flag korea north north korea
+U1F1F0 U1F1F7,flag korea south south korea
+U1F1F0 U1F1FC,flag kuwait
+U1F1F0 U1F1FE,cayman flag island
+U1F1F0 U1F1FF,flag kazakhstan
+U1F1F1 U1F1E6,flag laos
+U1F1F1 U1F1E7,flag lebanon
+U1F1F1 U1F1E8,flag lucia saint
+U1F1F1 U1F1EE,flag liechtenstein
+U1F1F1 U1F1F0,flag sri lanka
+U1F1F1 U1F1F7,flag liberia
+U1F1F1 U1F1F8,flag lesotho
+U1F1F1 U1F1F9,flag lithuania
+U1F1F1 U1F1FA,flag luxembourg
+U1F1F1 U1F1FB,flag latvia
+U1F1F1 U1F1FE,flag libya
+U1F1F2 U1F1E6,flag morocco
+U1F1F2 U1F1E8,flag monaco
+U1F1F2 U1F1E9,flag moldova
+U1F1F2 U1F1EA,flag montenegro
+U1F1F2 U1F1EB,flag french martin saint
+U1F1F2 U1F1EC,flag madagascar
+U1F1F2 U1F1ED,flag island marshall
+U1F1F2 U1F1F0,flag macedonia
+U1F1F2 U1F1F1,flag mali
+U1F1F2 U1F1F2,burma flag myanmar
+U1F1F2 U1F1F3,flag mongolia
+U1F1F2 U1F1F4,china flag macao macau
+U1F1F2 U1F1F5,flag island mariana north northern mariana
+U1F1F2 U1F1F6,flag martinique
+U1F1F2 U1F1F7,flag mauritania
+U1F1F2 U1F1F8,flag montserrat
+U1F1F2 U1F1F9,flag malta
+U1F1F2 U1F1FA,flag mauritius
+U1F1F2 U1F1FB,flag maldives
+U1F1F2 U1F1FC,flag malawi
+U1F1F2 U1F1FD,flag mexico
+U1F1F2 U1F1FE,flag malaysia
+U1F1F2 U1F1FF,flag mozambique
+U1F1F3 U1F1E6,flag namibia
+U1F1F3 U1F1E8,flag new new caledonia
+U1F1F3 U1F1EA,flag niger
+U1F1F3 U1F1EB,flag island norfolk
+U1F1F3 U1F1EC,flag nigeria
+U1F1F3 U1F1EE,flag nicaragua
+U1F1F3 U1F1F1,flag netherlands
+U1F1F3 U1F1F4,flag norway
+U1F1F3 U1F1F5,flag nepal
+U1F1F3 U1F1F7,flag nauru
+U1F1F3 U1F1FA,flag niue
+U1F1F3 U1F1FF,flag new new zealand
+U1F1F4 U1F1F2,flag oman
+U1F1F5 U1F1E6,flag panama
+U1F1F5 U1F1EA,flag peru
+U1F1F5 U1F1EB,flag french polynesia
+U1F1F5 U1F1EC,flag guinea new papua new guinea
+U1F1F5 U1F1ED,flag philippines
+U1F1F5 U1F1F0,flag pakistan
+U1F1F5 U1F1F1,flag poland
+U1F1F5 U1F1F2,flag miquelon pierre saint
+U1F1F5 U1F1F3,flag island pitcairn
+U1F1F5 U1F1F7,flag puerto rico
+U1F1F5 U1F1F8,flag palestine
+U1F1F5 U1F1F9,flag portugal
+U1F1F5 U1F1FC,flag palau
+U1F1F5 U1F1FE,flag paraguay
+U1F1F6 U1F1E6,flag qatar
+U1F1F7 U1F1EA,flag reunion réunion
+U1F1F7 U1F1F4,flag romania
+U1F1F7 U1F1F8,flag serbia
+U1F1F7 U1F1FA,flag russia
+U1F1F7 U1F1FC,flag rwanda
+U1F1F8 U1F1E6,flag saudi arabia
+U1F1F8 U1F1E7,flag island solomon
+U1F1F8 U1F1E8,flag seychelles
+U1F1F8 U1F1E9,flag sudan
+U1F1F8 U1F1EA,flag sweden
+U1F1F8 U1F1EC,flag singapore
+U1F1F8 U1F1ED,flag helena saint
+U1F1F8 U1F1EE,flag slovenia
+U1F1F8 U1F1EF,flag jan mayen svalbard
+U1F1F8 U1F1F0,flag slovakia
+U1F1F8 U1F1F1,flag sierra leone
+U1F1F8 U1F1F2,flag san marino
+U1F1F8 U1F1F3,flag senegal
+U1F1F8 U1F1F4,flag somalia
+U1F1F8 U1F1F7,flag suriname
+U1F1F8 U1F1F8,flag south south sudan sudan
+U1F1F8 U1F1F9,flag principe príncipe sao tome são tomé
+U1F1F8 U1F1FB,el salvador flag
+U1F1F8 U1F1FD,flag maarten sint
+U1F1F8 U1F1FE,flag syria
+U1F1F8 U1F1FF,flag swaziland
+U1F1F9 U1F1E6,flag tristan da cunha
+U1F1F9 U1F1E8,caicos flag island turks
+U1F1F9 U1F1E9,chad flag
+U1F1F9 U1F1EB,antarctic flag french
+U1F1F9 U1F1EC,flag togo
+U1F1F9 U1F1ED,flag thailand
+U1F1F9 U1F1EF,flag tajikistan
+U1F1F9 U1F1F0,flag tokelau
+U1F1F9 U1F1F1,east east timor flag timor-leste
+U1F1F9 U1F1F2,flag turkmenistan
+U1F1F9 U1F1F3,flag tunisia
+U1F1F9 U1F1F4,flag tonga
+U1F1F9 U1F1F7,flag turkey
+U1F1F9 U1F1F9,flag tobago trinidad
+U1F1F9 U1F1FB,flag tuvalu
+U1F1F9 U1F1FC,china flag taiwan
+U1F1F9 U1F1FF,flag tanzania
+U1F1FA U1F1E6,flag ukraine
+U1F1FA U1F1EC,flag uganda
+U1F1FA U1F1F2,america flag island minor outlying united united states us usa
+U1F1FA U1F1F8,america flag stars and stripes united united states
+U1F1FA U1F1FE,flag uruguay
+U1F1FA U1F1FF,flag uzbekistan
+U1F1FB U1F1E6,flag vatican
+U1F1FB U1F1E8,flag grenadines saint vincent
+U1F1FB U1F1EA,flag venezuela
+U1F1FB U1F1EC,british flag island virgin
+U1F1FB U1F1EE,america american flag island united united states us usa virgin
+U1F1FB U1F1F3,flag viet nam vietnam
+U1F1FB U1F1FA,flag vanuatu
+U1F1FC U1F1EB,flag futuna wallis
+U1F1FC U1F1F8,flag samoa
+U1F1FD U1F1F0,flag kosovo
+U1F1FE U1F1EA,flag yemen
+U1F1FE U1F1F9,flag mayotte
+U1F1FF U1F1E6,flag south south africa
+U1F1FF U1F1F2,flag zambia
+U1F1FF U1F1FC,flag zimbabwe
